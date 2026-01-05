@@ -10133,3 +10133,51 @@ LOG: Exited refreshAll
 LOG: Exited getLatestContent
 
 LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering refreshFilesListInDriveAndStoreInSettings
+
+LOG: Exiting refreshFilesListInDriveAndStoreInSettings
+
+LOG: Deleting files in refreshAll
+
+LOG: Downloading missing files in refreshAll
+
+LOG: Exited refreshAll
+
+LOG: Exited getLatestContent
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering refreshFilesListInDriveAndStoreInSettings
+
+LOG: Exiting refreshFilesListInDriveAndStoreInSettings
+
+LOG: Deleting files in refreshAll
+
+LOG: Downloading missing files in refreshAll
+
+LOG: Exited refreshAll
+
+LOG: Exited getLatestContent
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
