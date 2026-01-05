@@ -1,5 +1,5 @@
 ---
-lastSync: Wed Dec 17 2025 07:51:07 GMT-0500 (Eastern Standard Time)
+lastSync: Mon Jan 05 2026 02:29:59 GMT-0500 (Eastern Standard Time)
 ---
 Browse my weres
 
@@ -894,3 +894,4 @@ Yokai Watch
 	[[Kyubi]]
 	[[Lie-in Heart]]
 
+back to  [[index]]

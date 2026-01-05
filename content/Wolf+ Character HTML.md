@@ -1,5 +1,5 @@
 ---
-lastSync: Mon Jan 05 2026 00:18:27 GMT-0500 (Eastern Standard Time)
+lastSync: Mon Jan 05 2026 02:29:48 GMT-0500 (Eastern Standard Time)
 ---
 
 # Wolves
@@ -904,3 +904,5 @@ Jilla Jillos Jilles
 Yokai Watch  
 Kyubi  
 Lie-in Heart
+
+back to  [[index]]

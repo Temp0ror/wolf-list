@@ -1,6 +1,8 @@
 ---
-lastSync: Mon Jan 05 2026 02:25:38 GMT-0500 (Eastern Standard Time)
+lastSync: Mon Jan 05 2026 02:30:21 GMT-0500 (Eastern Standard Time)
 ---
+Browse my weres
+
 # Wolves
 ## \#
 
@@ -892,3 +894,4 @@ lastSync: Mon Jan 05 2026 02:25:38 GMT-0500 (Eastern Standard Time)
 	- [ ] [[Kyubi]]
 	- [ ] [[Lie-in Heart]]
 
+back to [[index]]
