@@ -1,0 +1,906 @@
+---
+lastSync: Mon Jan 05 2026 00:18:27 GMT-0500 (Eastern Standard Time)
+---
+
+# Wolves
+
+## \
+
+20th Century Fox  
+Terrytoons  
+Mighty Mouse  
+Big Bad Wolves(Crying Wolf)  
+Loan Sharks(My Old Kentucky Home)  
+Wilbur(The Reformed Wolf)  
+100% Wolf  
+Flasheart  
++
+
+## A
+
+Aboriginal Stories  
+Aron Gauder  
+Coyote and the Rock  
+Coyote(CatR)
+
+Adrenaline Misfits / Crossboard 7  
+Sabre  
+Adventure Time  
+Hugwolf  
+Whywolves  
+Party God  
+The Adventures of Br'er Rabbit  
+Br'er Wolf  
+Akela  
+Fekete Bárány  
+Nerdy BBW  
+Alice Detective Agency  
+Urufu-san  
+Altered Beast  
+Wolf Transformation  
+The Amazing World of Gumball  
+TV Cartoon Wolf  
+An American Werewolf in London  
+Werewolf David Kessler  
+Animal Crossing  
+Chief  
+Dobie  
+Fang  
+Kyle  
+Lobo  
+Wolfgang  
+Animal Treasure Island  
+Baron  
+Another Eden  
+Lokido  
+Araiguma Calcal-dan  
+Armello  
+Magna  
+Thane  
+Fang(Armello)  
+Arknights  
+Wolfe  
+Around the World with Willy Fog  
+Transfer  
+Atlanta  
+Coconut Crunch-O's Wolf
+
+## B
+
+The Bad Guys  
+Mr. Wolf  
+Balan Wonderworld
+
+- [x]  Barktholomew  
+    Beastars  
+    Legosi  
+    Ben 10  
+    Loboan  
+    Xingo  
+    Beauty and the Beast  
+    Forest Wolves  
+    Billie Bust Up  
+    Dutch the Wolf  
+    Black Myth Wukong  
+    Guangzhi  
+    Lingxuzi  
+    Wolf Enemies  
+    Archer  
+    Assassin  
+    Sentinel  
+    Scout  
+    Swornsword  
+    Soldier  
+    Stalwart  
+    Blade  
+    Jack Russell  
+    BlazBlue  
+    Valkenhayn R. Hellsing  
+    Bleach  
+    Sajin Komamura  
+    Bloodborne  
+    Cleric Beast  
+    Vicar Amelia  
+    Bloody Roar  
+    Hugo  
+    Bonkers  
+    Big Bad Wolf(Bonkers)  
+    Mean Old Wolf  
+    Wolf(Bonkers)  
+    Boy and the Beast  
+    Bandana Wolf  
+    Long-Hair Wolf  
+    Blonde Wolf  
+    Bust-a-move  
+    Bash  
+    Bust-a-Move Wolf  
+    Brand New Animal  
+    Shirou Ogami  
+    Brave Fencer Musashi  
+    Haya Wolf  
+    Bravestarr  
+    Coyotoids/Dingoes  
+    Dingo Dan  
+    Goldtooth  
+    Barker  
+    Howler  
+    Dingo Llama  
+    Dealer  
+    Brawlhalla  
+    Mordex  
+    Breath of Fire  
+    Gilliam  
+    Brutal: Paws of Fury  
+    Kendo Coyote  
+    Bubba the Redneck Werewolf  
+    Bubba the Redneck Werewolf
+
+## C
+
+Campfire Cooking in Another World with My Absurd Skill  
+Fel  
+Castlevania  
+Werewolves(CV)  
+Cornell  
+Chirin's Bell  
+Woe(ウォー)  
+Club Penguin  
+Werewolf Costume(CP)  
+Colgate  
+Colgate Wolf [source](https://youtu.be/rNlgDVMwvtE)  
+Cookie Run  
+Werewolf Cookie  
+Coors  
+Beerwolf  
+Crayon Shin-chan  
+Great adventure in Henderland  
+Clay G. Mad  
+Cybersix  
+Werewolf Lucas  
+Cycle of the Werewolf(Stephen King)  
+Werewolf(CotW) [source](https://bsky.app/profile/johnhurschelrunion.bsky.social/post/3lytr4ehczc2z)
+
+## D
+
+Danny Phantom  
+Wulf  
+Darkstalkers/Vampire Savior  
+Jon Talbain  
+Dead by Daylight  
+Bear Oni Skin  
+Delicious in Dungeon  
+Kuro  
+Digimon  
+Fangmon  
+Sekkamon  
+Weregarurumon  
+Dislyte  
+Freddy  
+Wenlock  
+Disney  
+Zeke Midas Wolf  
+Sports (Soccer, Football)  
+Wolfgangs Team  
+Dogtanian and the Three Muskehounds  
+Cardinal Richelieu  
+Dragon Ball  
+Man Wolf  
+Z  
+Trio De Danger  
+Lavenda  
+Bergamo  
+Basil  
+Dragon Quest  
+Bewarewolf  
+X  
+Jumping Jackal  
+Pharaoh Nobis (Mausoleum General)  
+Drug Free is the Way to Be  
+Glitch  
+Ducktales  
+Hack Smashnikov  
+Merlock the Magician  
+Slash Smashnikov
+
+## E
+
+Elden Ring  
+Blaidd  
+Gurranq  
+Maliketh  
+The Elder Scrolls  
+Skyrim  
+Farkas  
+Vilksa  
+Aela(F)  
+Ever After High  
+Mr. Badwolf
+
+## F
+
+Faaast Penguin  
+Werewolf Costume(FP)  
+Fairy Tail  
+Jackal  
+Fairy Tale Police Department  
+Big Bad Wolf(FTPD)  
+Fall Guys  
+Baaaad Wolf  
+Granny Wise Wolf  
+Party Wolf  
+Werewolf Fang  
+Family Guy  
+Big Bad Wolf Brian  
+Phil (Cock-a-doodle-doo Wolf)  
+Robert  
+Wolf from the Zoo  
+Fangface  
+Fangface  
+Fantasy Life I: The Girl Who Steals Time  
+Alpha Coyote  
+Fate  
+Grand Order  
+Patxi  
+Woodwose  
+Stay Night  
+Witch of the Holy Night (Mahoutsukai no Yoru)  
+Werewolf(WotHN)  
+Feda: The Emblem of Justice  
+Ain MacDougal  
+Final Fantasy  
+VI  
+Lone Wolf the Pickpocket  
+X  
+Ifrit  
+Five Night at Freddy's  
+Roxanne Wolf(F)  
+Ford Winstar commercial  
+Ford Big Bad Wolf  
+The Forest Chronicle  
+Greedy Wolf  
+Fortnite
+
+- [x]  Dire  
+    Fletcher Kane  
+    Wendell  
+    Wolves(FN)  
+    Friends vs Friends  
+    Dale Donovan  
+    Full Metal Alchemist  
+    Star of Milos
+- [x]  Wolf Chimera
+
+## G
+
+Gamba No Bouken  
+Noroi  
+Game & Watch  
+Egg Wolf  
+General Mills  
+Chip the Wolf  
+The Ghost and Molly McGee  
+Dancing Werewolves  
+Ghostbusters  
+Werewolf Vampires  
+Gingitsune  
+Tetsuro  
+Gleipnir  
+Shuichi  
+Go! Go! Hypergrind  
+Decker  
+Golden Sun  
+Master Maha  
+Sveta  
+Volechek  
+Wolfkin(GS)  
+Goosebumps  
+The Werewolf of Fever Swamp  
+Guild Wars 2  
+Rytlock Brimstone  
+Guilty Gear  
+Strive  
+Rei  
+Gundam  
+Tigerwolf (Kotaro Ogami)
+
+## H
+
+Harlecore  
+DJ Mayhem  
+HeroVersus  
+Lucas  
+Hazbin Hotel  
+Vortex  
+Pinkle  
+Honkai Star Rail  
+Hoolay  
+Borisin wolf enemy types  
+Hotel Transylvania
+
+- [x]  Wayne Werewolf  
+    Hunter X Hunter  
+    Mike  
+    Welfin  
+    Hustle Punch  
+    Professor Garigari  
+    Hyper Light Drifter  
+    Dro  
+    Hyper Police  
+    Tommy Fujioka
+
+## I
+
+Illbleed  
+Zodick the Hellhog  
+In Sheeps Clothing / W Owczej Skórze  
+Sheepwolf  
+Indigo Park  
+Skurv the Coyote  
+Into the Unwell  
+Wolf Clerk  
+Isekai Samurai
+
+- [x]  Rouou  
+    Ivan Tsarevich and the Gray Wolf  
+    Volk(ITatGW)  
+    Invincible  
+    Wolf-Man
+
+## J
+
+Jujutsu Kaisen  
+Devine Dog: Totality  
+The Jungle Book  
+Akela
+
+## K
+
+Kaiketsu Zorori  
+Majime no Fumajime Kaiketsu Zorori  
+Big Bad Wolf(Blow Down the Piglet's House)  
+Gaon  
+Leroux  
+Werewolf Zorori  
+Kekkaishi  
+Madarao  
+Hakubi  
+Kouya  
+Kemono Michi  
+Wolfgang Von Kraftrman  
+Kiff  
+Dante  
+Ghost Wolf  
+Soup Opera Wolf  
+Killer Instinct  
+Sabrewulf  
+Kingdom Hearts  
+2  
+Dark Thorn  
+3  
+Sköll  
+Union X  
+Werewolf(KHUX)  
+Kings of Hell  
+Jr.  
+Split  
+Kippo Age of the Wonderbeasts  
+Newton Wolves  
+Kirby  
+and the Forgotten Land  
+Awoofy  
+Right Back at Ya!  
+Wolfwrath  
+Knightlore  
+Knightlore Werewolf  
+Kukuxumusu  
+Kukuxumusu Wolf  
+Kung Fu Panda  
+Boss Wolf  
+Kyuiin  
+Big Bad Wolf(Kyuiin)
+
+## L
+
+Lazy Town  
+Cartoon Wolf Robbie Rotten  
+Le Collège Invisible  
+Thomas  
+League of Legends
+
+- [x]  Warwick  
+    The Legend of Zelda  
+    Wolfos  
+    Wolf Link  
+    Lupay  
+    Omfak  
+    Legends  
+    Wolfy the Werewolf
+
+## M
+
+Mana  
+Werewolf(Mana)  
+Trials of  
+Gauser  
+Kevin  
+Mario  
+Super Mario Bros. Super Show!  
+Big Bad Wolf(SMBSS)  
+Martin Mystery  
+Werewolf Martin  
+Mega Man  
+Network  
+Gregar  
+Star Force  
+Wolf Woods  
+X  
+Blizzard Wolfgang  
+Treble  
+Zero  
+Fenri Lunaedge  
+Mika  
+Lollipop  
+Wolf(Lollipop)  
+Mike Tyson Mysteries  
+Andrew  
+Millville  
+Kookies Cereal Wolf  
+Mind Over Magic  
+Wolfkin Race  
+Mischief Makers  
+Lunar  
+Monster in my Pocket  
+Dee Wolfman  
+Moviefone  
+Granny Wolf  
+Mr. Birchum  
+Vega Wolf  
+My Melody No Akazukin  
+Wolf(MMNA)  
+My Singing Monster  
+Nyehehe
+
+## N
+
+Naruto  
+Fugai  
+Neopets  
+Gelert Assassin  
+Kanrick  
+King Altador  
+Werelupe King  
+The Neverending Story  
+Gmork  
+Ni No Kuni  
+Bauer Linden  
+Nightmare Before Christmas  
+Wolfman(NBC)  
+Ninpen Manmaru  
+Purple Wolf  
+No Lie, Pigs (and Their Houses) Can Fly!: The Story of the Three Little Pigs as Told by the Wolf  
+Big Bad Wolf(NLP(aTH)CF!tSotTLPaTbtW)  
+Noah's Ark (2007)  
+Wolfgang(NA)  
+Nu Pogodi  
+Volk(NP)
+
+## O
+
+O.G. Readmore  
+Big Bad O.G. Readmore  
+Big Bad Wolf(O.G.R)  
+Okage: Shadow King  
+Lone Wolf(O:SK) [source](https://okageshadowking.fandom.com/wiki/Lone_Wolf)  
+Olympics  
+Vucko
+
+- One piece
+    - [x]  Jyabura / Jabra  
+        Skypiea Wolves  
+        Wolf (assassin)  
+        Wolf Mink  
+        One Punch Man  
+        Beast King  
+        One Stormy Night/Arashi No Yoru Ni (あらしのよるに)  
+        Gabu  
+        Open Season  
+        Scared Silly  
+        Wailing Wumpus Werewolf  
+        Oreca Batle  
+        John Gary  
+        Ozanari Dungeon  
+        Thug A  
+        Thug B
+
+## P
+
+Phantom Brave  
+Werewolf (PB)  
+2 The Lost Hero  
+Rouen(PB)  
+Pink Panther  
+Werewolf(PP)  
+Pokemon  
+Lycanroc(Midnight Form)  
+Pop'n Music  
+Wolfgang PNM  
+Pretty Cure  
+Wolfrun  
+Puss in Boots  
+Death
+
+## Q
+
+## R
+
+Raggedy Anne and Andy  
+the Great Santa Clause Caper  
+Alexander Graham Wolf  
+Rampage  
+Ralph  
+Regular Show  
+Court Werewolf(John Wolfhard)  
+Revengers of Vengeance/Battle Fantasy (バトルファンタシー)  
+Barko  
+Re:Zero  
+Ricardo Welkin  
+Rhymestar(ライムスタ)  
+Gaosu(ガオース)  
+Road Rovers  
+Exile  
+Robinhood  
+Sheriff of Nottingham  
+Wolf Arrowman  
+Rocket Knight Adventures  
+Sparkster  
+Colonel Wolfheim  
+Rocket Knight  
+Ulfgar the Merciless
+
+## S
+
+Sabre Wulf  
+Sabre Wulf  
+Sacrificial Princess and the King of Beasts  
+Fenrir(SPatKoB)  
+Gleipnir  
+Leonhart  
+Set  
+Sirius  
+Sesame Street  
+German  
+Wolf vom Wörtersee  
+Scary Godmother  
+Harry  
+Scooby-Doo  
+Big Top Scooby-Doo  
+Werewolf(BTSD)  
+and the Goblin King  
+Werewolf Bouncer  
+Guess Who  
+Wolfman(SDGW)  
+Return to Zombie Island  
+Werewolf (SDRtZA)  
+Sdorica  
+Law  
+Sheep and Wolves  
+Grey  
+Dee  
+Ragear  
+Sherlock Hound  
+Professor Moriarty  
+Shin Megami Tensei  
+Loup-garou  
+Shining  
+Ark  
+Zynga Varga  
+Blade  
+Fenrir(SB)  
+Force: The legacy of Great Intention  
+Zylo  
+Force III
+
+- [x]  Frank  
+    Force EXA  
+    Duga  
+    Force Neo  
+    Baron  
+    Werewolf Enemies(SFN)  
+    In the Darkness  
+    Gatt  
+    Lupo  
+    Road  
+    Ralzak  
+    Soul II  
+    Sachs  
+    Tears  
+    Volg  
+    the Holy Ark  
+    Doyle  
+    Wind X  
+    Rouen  
+    Shrek  
+    Wolfy  
+    The Simpsons  
+    Lord Werewolf's Boudoir  
+    Werewolf Flanders  
+    Simsala Grimm  
+    Big Bad Wolf(SG)  
+    Wolf(SG)  
+    Skyblazer  
+    Kh'lar  
+    Skylanders  
+    Wolfgang(Skylanders)  
+    Slayers  
+    Dilgear  
+    Snack World  
+    Lagged Lupine  
+    Mr. Wolfmann  
+    Wearwolf  
+    Sonic  
+    Fang the Sniper  
+    Underground  
+    Sleet  
+    Soul Eater  
+    Free  
+    Spider-Man  
+    Man-Wolf (John Jonah Jameson III)  
+    Spider-wolf  
+    Squirrel and Hedgehog  
+    Captain Keoteo  
+    Seungnyangi  
+    Star Fox  
+    Wolf O'Donnell  
+    Storks  
+    Wolves(storks)  
+    Static Shock  
+    Werewolf (SS)  
+    Suikoden  
+    III  
+    Branky  
+    Symbicort  
+    Symbicort Wolves
+
+## T
+
+Tales  
+of Berseria
+
+- [x]  Breed Wolf  
+    Daemon Mahina(F)  
+    Dragonfolk
+- [v] Lycan Coyote
+- [v] Lycanthrope(ToB)
+- [v] Werewolf(ToB)
+- [v] Wolf Berserker  
+    Zestiria  
+    Beastmaster  
+    Killer cougar
+- [v] Rougarou  
+    Sabre-toothed tiger  
+    Talespin  
+    Ace London  
+    Mad Dog  
+    Tara Duncan  
+    Hypnos  
+    Kerebos  
+    Louxos  
+    Teenage Mutant Ninja Turtles  
+    Razhar  
+    Tekken  
+    Tag  
+    Unknown  
+    Tex Avery  
+    Big Bad Wolf(TA)  
+    Slick McWolf  
+    Three Little Wolves and the Big Bad Pig  
+    Three Little Wolves  
+    Titan's Bride  
+    Palo Barrows  
+    To the Abandoned Sacred Beasts  
+    Rex "Roy" Brock(Garmr)  
+    Hank Henriette  
+    Tokusatsu  
+    Super Sentai  
+    Doubutsu Sentai Zyuohger  
+    Wolf Man(DSZ)  
+    RPD  
+    Doggie Kruger  
+    Shuriken Sentai Ninninger  
+    Western Yokai Wolf Man  
+    Toonstruck  
+    B.B. Wolf and Co.  
+    Total Drama Island: Reboot  
+    Werewolf Band Camp Werewolf  
+    Toxic Crusaders  
+    Junkyard  
+    Tribal Hunter  
+    Wolf Rogue
+
+## U
+
+Undertale  
+Ice Wolf  
+Unholy Night: The Darkness Hunter  
+Wurzel  
+Unicorn Overlord  
+Govil  
+Unicorn: Warriors Eternal  
+Winston  
+Unikitty!  
+Big Bad Wolf(Bedtime Stories)
+
+## V
+
+V Rising  
+Werewolf(V Rising)  
+Van Helsing
+
+- [x]  Grey Werewolf
+- [x]  Velkan Werewolf
+- [x]  Werewolf Gabriel Van Helsing  
+    Villgust  
+    Murobo  
+    Vindictus  
+    Gnoll Chieftain  
+    Gnoll Chieftain (rework)  
+    Viva Pinata  
+    Mallowolf  
+    Sour Mallowolf
+
+## W
+
+Warner Brothers  
+Animaniacs  
+Walter Wolf  
+Thomas Timberwolf  
+Wile E. Coyote  
+Wilford Wolf  
+Wax  
+Bridge to Your Heart  
+Horny Wolf  
+We  
+Baby Bears  
+Influencer Wolf  
+Wolf(WBB)  
+Wolf Pack  
+Welcome to Demon School! Iruma-kun  
+Amaymon  
+The Were cleaner  
+Kyle  
+Werewolf by Night  
+Jack Russel (WbN)  
+Werewolf the Apocalypse  
+Cahal  
+Werewolf the Last Warrior  
+Werewolf the Last Warrior  
+Wild Knight Gulkeeva  
+Greyfus  
+Wild Kratts  
+Coyote suit  
+Wizorb  
+Werewolf(WO)  
+Wolf children  
+Wolf children  
+Father  
+Wolf in Chef's Clothing + Nip Ahoy  
+Wolf in Chef's Clothing  
+Wolf It!
+
+- [v] Bro(1)
+- [v] Bro(2)  
+    Wolf's Rain  
+    All of them  
+    Wolfwalkers  
+    Bill Goodfellowe  
+    World of Warcraft  
+    Hogger  
+    Worgen  
+    Genn Greymane
+
+## X
+
+## Y
+
+Yu-Gi-Oh  
+Coach Soldier Wolfbark  
+Frightfur Wolf  
+Folgo Justice for Hire  
+Forest wolf  
+Ghosttrick Warwolf  
+Warwolf  
+Zombie Werewolf
+
+## Z
+
+Zootopia  
+Garry  
+Larry  
+Officer Grizzoli  
+Officer Wolfard
+
+# Rough
+
+AFK  
+Journey  
+Arena  
+Tidus  
+Alberto Balsalm  
+Alpha and Omega  
+king rogue wolf  
+Big bad wolf fairy tales retold  
+Bonkers  
+The Collector  
+Comic Strip  
+Mini-Monster  
+Wolfie(Mini-Monsters)  
+CyberCOnnect2  
+Tail Concerto  
+Solatorobo  
+Bruno  
+Fuga  
+Dislyte  
+Javid  
+Dragon Quest  
+IX  
+Goresby-Purrvis  
+Housamo  
+Kirby  
+and the Forgotten Land  
+Leongar  
+Monster Boy and the Cursed Kingdom  
+Mystery Skulls  
+Mystery  
+Peter and the Wolf  
+Smooshwolves  
+Three little bops  
+wolf  
+Tokyo Afterschool Summoners  
+Ushio To Tora  
+Tora  
+The Wolf and the Seven Kids  
+Studiocanal  
+Wolf Children  
+Wolf King
+
+# Foxes
+
+Animal Crossing  
+Redd  
+Bloody Roar  
+Hans Taubemann  
+Dead Rising  
+Ticky the Fox  
+Dixan/Neomat  
+Dixan Fox  
+Dora the Explorer  
+Swiper  
+Five Nights at Freddy's  
+Foxy the Pirate  
+Gingitsune  
+Gintaro  
+Metal Gear  
+Foxhound  
+Monster Boy and the Cursed Kingdom  
+Foximus  
+Naruto  
+Kurama  
+Nils Holgersson  
+Smirre  
+One Piece  
+Concelot  
+Peter Rabbit  
+Mr. Todd  
+Pinocchio  
+"Honest" John Foulfellow  
+Pop n' Music  
+Foxy  
+Pricefox  
+Pricefox  
+Shining Wind  
+Kamushin  
+Slayers  
+Jilla Jillos Jilles  
+Yokai Watch  
+Kyubi  
+Lie-in Heart
