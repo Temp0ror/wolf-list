@@ -1,5 +1,5 @@
 ---
-lastSync: Mon Jan 05 2026 00:20:03 GMT-0500 (Eastern Standard Time)
+lastSync: Mon Jan 05 2026 01:53:08 GMT-0500 (Eastern Standard Time)
 ---
 # Wolves
 ## \#
@@ -16,69 +16,69 @@ lastSync: Mon Jan 05 2026 00:20:03 GMT-0500 (Eastern Standard Time)
 
 ## A
 
-Aboriginal Stories
-    Aron Gauder
-        Coyote and the Rock
-            [[Coyote(CatR)]]
+- Aboriginal Stories
+    - Aron Gauder
+        - Coyote and the Rock
+            - [ ] [[Coyote(CatR)]]
 
-Adrenaline Misfits / Crossboard 7
-	[[Sabre]]
-Adventure Time
-	[[Hugwolf]]
-	[[Whywolves]]
-	[[Party God]]
-The Adventures of Br'er Rabbit
-	[[Br'er Wolf]]
-Akela
-	Fekete Bárány
-		[[Nerdy BBW]]
-Alice Detective Agency
-	[[Urufu-san]]
-Altered Beast
-	[[Wolf Transformation]]
-The Amazing World of Gumball
-	[[TV Cartoon Wolf]]
-An American Werewolf in London
-	[[Werewolf David Kessler]]
-Animal Crossing
-	[[Chief]]
-	[[Dobie]]
-	[[Fang]]
-	[[Kyle]]
-	[[Lobo]]
-	[[Wolfgang]]
-Animal Treasure Island
-	[[Baron]]
-Another Eden
-	[[Lokido]]
-Araiguma Calcal-dan
-Armello
-	[[Magna]]
+- Adrenaline Misfits / Crossboard 7
+	- [ ] [[Sabre]]
+- Adventure Time
+	- [ ] [[Hugwolf]]
+	- [ ] [[Whywolves]]
+	- [ ] [[Party God]]
+- The Adventures of Br'er Rabbit
+	- [ ] [[Br'er Wolf]]
+- Akela
+	- Fekete Bárány
+		- [ ] [[Nerdy BBW]]
+- Alice Detective Agency
+	- [ ] [[Urufu-san]]
+- Altered Beast
+	- [ ] [[Wolf Transformation]]
+- The Amazing World of Gumball
+	- [ ] [[TV Cartoon Wolf]]
+- An American Werewolf in London
+	- [ ] [[Werewolf David Kessler]]
+- Animal Crossing
+	- [ ] [[Chief]]
+	- [ ] [[Dobie]]
+	- [ ] [[Fang]]
+	- [ ] [[Kyle]]
+	- [ ] [[Lobo]]
+	- [ ] [[Wolfgang]]
+- Animal Treasure Island
+	- [ ] [[Baron]]
+- Another Eden
+	- [ ] [[Lokido]]
+- Araiguma Calcal-dan
+- Armello
+	- [ ] [[Magna]]
 	[[Thane]]
 	[[Fang(Armello)]]
-Arknights
+- Arknights
 	[[Wolfe]]
-Around the World with Willy Fog
+- Around the World with Willy Fog
 	[[Transfer]]
-Atlanta
+- Atlanta
 	[[Coconut Crunch-O's Wolf]]
 
 ## B
 
-The Bad Guys
+- The Bad Guys
 	[[Mr. Wolf]]
-Balan Wonderworld
-- [x]	[[Barktholomew]]
-Beastars
+- Balan Wonderworld
+	- [x] [[Barktholomew]]
+- Beastars
 	[[Legosi]]
-Ben 10
+- Ben 10
 	[[Loboan]]
 	[[Xingo]]
-Beauty and the Beast
+- Beauty and the Beast
 	[[Forest Wolves]]
-Billie Bust Up
+-  Billie Bust Up
 	[[Dutch the Wolf]]
-Black Myth Wukong
+- Black Myth Wukong
 	[[Guangzhi]]
 	[[Lingxuzi]]
 	[[Wolf Enemies]]
@@ -89,31 +89,31 @@ Black Myth Wukong
 		Swornsword
 		Soldier
 		Stalwart
-Blade
+- Blade
 	[[Jack Russell]]
-BlazBlue
+- BlazBlue
 	[[Valkenhayn R. Hellsing]]
-Bleach
+- Bleach
 	[[Sajin Komamura]]
-Bloodborne
+- Bloodborne
 	[[Cleric Beast]]
 	[[Vicar Amelia]]
-Bloody Roar
+- Bloody Roar
 	[[Hugo]]
-Bonkers
+- Bonkers
 	[[Big Bad Wolf(Bonkers)]]
 	[[Mean Old Wolf]]
 	[[Wolf(Bonkers)]]
-Boy and the Beast
+- Boy and the Beast
 	[[Bandana Wolf]]
 	[[Long-Hair Wolf]]
 	[[Blonde Wolf]]
-Bust-a-move
+- Bust-a-move
 	Bash
 		[[Bust-a-Move Wolf]]
-Brand New Animal
+- Brand New Animal
 	[[Shirou Ogami]]
-Brave Fencer Musashi
+- Brave Fencer Musashi
 	[[Haya Wolf]]
 Bravestarr
 	Coyotoids/Dingoes
