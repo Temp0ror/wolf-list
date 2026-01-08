@@ -1,5 +1,5 @@
 ---
-lastSync: Mon Jan 05 2026 02:30:21 GMT-0500 (Eastern Standard Time)
+lastSync: Wed Jan 07 2026 23:11:32 GMT-0500 (Eastern Standard Time)
 ---
 Browse my weres
 
@@ -169,8 +169,11 @@ Browse my weres
     - [ ] [[Bear Oni Skin]]
 - Delicious in Dungeon
 	- [ ] [[Kuro]]
+- The Devil and Daniel Mouse
+    - [ ] [[Weeze Weezel]]
 - Digimon
 	- [ ] [[Fangmon]]
+	- [ ] [[Hyemon]]
 	- [ ] [[Sekkamon]]
 	- [ ] [[Weregarurumon]]
 - Dislyte
@@ -310,11 +313,15 @@ Browse my weres
 - Hazbin Hotel
 	- [ ] [[Vortex]]
 	- [ ] [[Pinkle]] 
+- Heathcliff
+	- [ ] [[Chiefy]]
 - Honkai Star Rail
 	- [ ] [[Hoolay]]
 	- [ ] [[Borisin wolf enemy types]]
 - Hotel Transylvania
     - [x] [[Wayne Werewolf]]
+- How to Catch the Firebird Feather
+	- [ ] [[Wolf(HtCtFF)]]
 - Hunter X Hunter
 	- [ ] [[Mike]]
 	- [ ] [[Welfin]]
@@ -468,6 +475,8 @@ Browse my weres
 	- [ ] [[Gmork]]
 - Ni No Kuni
 	- [ ] [[Bauer Linden]]
+- Nici
+	- [ ] [[wolf(Nici)]]
 - Nightmare Before Christmas
 	- [ ] [[Wolfman(NBC)]]
 - Ninpen Manmaru
@@ -507,6 +516,8 @@ Browse my weres
 	- [ ] [[Thug B]]
 ## P
 
+- Peter and the Wolf
+	- [ ] [[Wolf((PatW))]]
 - Phantom Brave
 	- [ ] [[Werewolf (PB)]]
 	- 2 The Lost Hero
@@ -684,6 +695,8 @@ Browse my weres
 - Tex Avery
 	- [ ] [[Big Bad Wolf(TA)]]
 	- [ ] [[Slick McWolf]]
+- That Time I Got Reincarnated as a Slime
+	- [ ] [[Ranga]]
 - Three Little Wolves and the Big Bad Pig
 	- [ ] [[Three Little Wolves]]
 - Titan's Bride
@@ -710,6 +723,8 @@ Browse my weres
 
 ## U
 
+- The Ugly Duckling
+	- [ ] [[Wolves(TUD)]]
 - Undertale
 	- [ ] [[Ice Wolf]]
 - Unholy Night: The Darkness Hunter
@@ -769,6 +784,8 @@ Browse my weres
     - [ ] [[Coyote suit]]
 - Wizorb
 	- [ ] [[Werewolf(WO)]]
+- Wolf and Gopher
+	- [ ] [[Wolf(WaG)]]
 - Wolf children
 	- [ ] [[Wolf children]]
 	- [ ] [[Father]]
@@ -838,8 +855,7 @@ Browse my weres
 		- [ ] [[Leongar]]
 - Monster Boy and the Cursed Kingdom
 - Mystery Skulls
-	- [ ] [[Mystery]]
-- Peter and the Wolf
+	- [ ] [[Mystery
 - Smooshwolves
 - Three little bops
 	- [ ] wolf

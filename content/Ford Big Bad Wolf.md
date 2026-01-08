@@ -1,8 +1,8 @@
 ---
-lastSync: Sat Jul 26 2025 02:20:17 GMT-0400 (Eastern Daylight Time)
+lastSync: Wed Jan 07 2026 23:24:05 GMT-0500 (Eastern Standard Time)
 ---
 
 
 # References
-https://www.youtube.com/watch?v=zif5OeKAZDo
-https://www.youtube.com/watch?v=hYotKtarodw
+![](https://www.youtube.com/watch?v=zif5OeKAZDo)
+![](https://www.youtube.com/watch?v=hYotKtarodw)

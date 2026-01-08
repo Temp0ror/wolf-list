@@ -1,8 +1,9 @@
 ---
-lastSync: Tue Jul 29 2025 20:21:15 GMT-0400 (Eastern Daylight Time)
+lastSync: Wed Jan 07 2026 23:31:33 GMT-0500 (Eastern Standard Time)
 ---
 
 
 # References
 
-https://www.youtube.com/watch?v=Pirky_S_rto
+![](https://www.youtube.com/watch?v=Pirky_S_rto)
+
