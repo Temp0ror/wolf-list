@@ -1,5 +1,5 @@
 ---
-lastSync: Wed Jan 07 2026 23:11:32 GMT-0500 (Eastern Standard Time)
+lastSync: Fri Jan 09 2026 22:10:48 GMT-0500 (Eastern Standard Time)
 ---
 Browse my weres
 
@@ -623,6 +623,8 @@ Browse my weres
 		- [ ] [[Rouen]]
 - Shrek
 	- [ ] [[Wolfy]]
+- Silhouette Mirage
+	- [ ] [[Pablo]]
 - The Simpsons
 	- [ ] [[Lord Werewolf's Boudoir]]
 	- [ ] [[Werewolf Flanders]]
