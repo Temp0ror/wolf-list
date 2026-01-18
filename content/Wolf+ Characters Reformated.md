@@ -1,7 +1,11 @@
 ---
-lastSync: Fri Jan 09 2026 22:10:48 GMT-0500 (Eastern Standard Time)
+lastSync: Thu Jan 15 2026 22:24:08 GMT-0500 (Eastern Standard Time)
 ---
 Browse my weres
+
+Legend:
+- X = Need to research name
+-	- [x] already included in a (Were)WolfWednesday post (to be included with link to the respective post)
 
 # Wolves
 ## \#
@@ -110,6 +114,8 @@ Browse my weres
 	- [ ] [[Bandana Wolf]]
 	- [ ] [[Long-Hair Wolf]]
 	- [ ] [[Blonde Wolf]]
+- Bozo the Clown
+	- [ ] [[Wacko Wolf]]
 - Bust-a-move
 	- Bash
 		- [ ] [[Bust-a-Move Wolf]]
@@ -180,6 +186,7 @@ Browse my weres
 	- [ ] [[Freddy]]
 	- [ ] [[Wenlock]]
 - Disney
+	- [ ] [[Pipwolf]]
 	- [ ] [[Zeke Midas Wolf]]
 	- Sports (Soccer, Football)
 		- [ ] [[Wolfgangs Team]]
@@ -457,6 +464,10 @@ Browse my weres
 	- [ ] [[Granny Wolf]]
 - Mr. Birchum
 	- [ ] [[Vega Wolf]]
+- Mutant League
+	- [ ] X[to be named character](https://fixupx.com/FurryFootage/status/1982497804716306685?t=8ZK0UjozKGyFtLDtF-Yb8g&s=19)
+- My Gift Lvl 9999 Unlimited Gacha/Backstabbed in a Backwater Dungeon
+	- [ ] [[Garou]]
 - My Melody No Akazukin
 	- [ ] [[Wolf(MMNA)]]
 - My Singing Monster
@@ -542,10 +553,14 @@ Browse my weres
 		- [ ] [[Alexander Graham Wolf]]
 - Rampage
 	- [ ] [[Ralph]]
+- The Real Tuesday Weld
+	- [ ] [[Mr. Wolf(TRTW)]]
 - Regular Show
 	- [ ] [[Court Werewolf(John Wolfhard)]]
 - Revengers of Vengeance/Battle Fantasy (バトルファンタシー)
 	- [ ] [[Barko]]
+- Revolting Rhymes
+	- [ ] [[Big Bad Wolf(RR)]]
 - Re:Zero
 	- [ ] [[Ricardo Welkin]]
 - Rhymestar(ライムスタ)
@@ -584,6 +599,8 @@ Browse my weres
 		- [ ] [[Wolfman(SDGW)]]
 	- Return to Zombie Island
 		- [ ] [[Werewolf (SDRtZA)]]
+	- Scratch and Sniff's Den of Doom
+		- [ ] [[Scratch and Sniff]]
 - Sdorica
 	- [ ] [[Law]]
 - Sheep and Wolves
@@ -655,6 +672,10 @@ Browse my weres
 	- [ ] [[Seungnyangi]]
 - Star Fox
 	- [ ] [[Wolf O'Donnell]]
+- Star Wars
+	- [ ] [[Voolvif Monn]]
+	- Skeleton Crew
+		- [ ] [[Brutus]]
 - Storks
 	- [ ] [[Wolves(storks)]]
 - Static Shock
@@ -682,9 +703,13 @@ Browse my weres
 	    - [ ] [[Killer cougar]]
 	    - [x] [[Rougarou]]
 	    - [ ] [[Sabre-toothed tiger]]
+- Tales from the Cryptkeeper
+	- [ ] [[Wendell(TftC)]]
 - Talespin
 	- [ ] [[Ace London]]
 	- [ ] [[Mad Dog]]
+- Tangled
+	- [ ] [[Catalina]]
 - Tara Duncan
 	- [ ] [[Hypnos]]
 	- [ ] [[Kerebos]]
@@ -720,6 +745,8 @@ Browse my weres
 	- [ ] [[Werewolf Band Camp Werewolf]]
 - Toxic Crusaders
 	- [ ] [[Junkyard]]
+- Toys R Us
+	- [ ] [[1980 commercial cat/wolf]]
 - Tribal Hunter
 	- [ ] [[Wolf Rogue]]
 
@@ -772,6 +799,7 @@ Browse my weres
 		- [ ] [[Wolf Pack]]
 - Welcome to Demon School! Iruma-kun
 	- [ ] [[Amaymon]]
+	- [ ] X [Unnamed food stall worker](https://animekai.to/watch/welcome-to-demon-school-iruma-kun-season-2-3jy2#ep=8) t=11:53
 - The Were cleaner
     - [ ] [[Kyle]]
 - Werewolf by Night
@@ -793,6 +821,8 @@ Browse my weres
 	- [ ] [[Father]]
 - Wolf in Chef's Clothing + Nip Ahoy
 	- [ ] [[Wolf in Chef's Clothing]]
+- The Wolf in Underpants/Le Loup en SLip
+	- [ ] [[Wolf(TWiU)]]
 - Wolf It!
 	- [x] [[Bro(1)]]
 	- [x] [[Bro(2)]]
