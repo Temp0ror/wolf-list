@@ -1,5 +1,5 @@
 ---
-lastSync: Sun Jan 18 2026 20:53:35 GMT-0500 (Eastern Standard Time)
+lastSync: Sun Jan 18 2026 21:18:35 GMT-0500 (Eastern Standard Time)
 ---
 Browse my weres
 
@@ -759,7 +759,7 @@ Legend:
 - Toxic Crusaders
 	- [ ] [[Junkyard]]
 - Toys R Us
-	- [ ] [[1980 commercial cat/wolf]]
+	- [ ] [[1980 commercial cat wolf]]
 - Tribal Hunter
 	- [ ] [[Wolf Rogue]]
 
