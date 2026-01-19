@@ -1,5 +1,5 @@
 ---
-lastSync: Thu Jan 15 2026 22:24:08 GMT-0500 (Eastern Standard Time)
+lastSync: Sun Jan 18 2026 20:53:35 GMT-0500 (Eastern Standard Time)
 ---
 Browse my weres
 
@@ -144,6 +144,9 @@ Legend:
 
 - Campfire Cooking in Another World with My Absurd Skill
 	- [ ] [[Fel]]
+- Castle Films
+	- Little Boy Blue/The Big Bad Wolf
+		- [ ] [[Big Bad Wolf(LBB TBBW)]]
 - Castlevania
 	- [ ] [[Werewolves(CV)]]
 	- [ ] [[Cornell]]
@@ -177,6 +180,8 @@ Legend:
 	- [ ] [[Kuro]]
 - The Devil and Daniel Mouse
     - [ ] [[Weeze Weezel]]
+- Demon Chaos/Ikusagami
+	- [ ] [[Inugami]]
 - Digimon
 	- [ ] [[Fangmon]]
 	- [ ] [[Hyemon]]
@@ -192,6 +197,14 @@ Legend:
 		- [ ] [[Wolfgangs Team]]
 - Dogtanian and the Three Muskehounds
 	- [ ] [[Cardinal Richelieu]]
+- Doraemon
+	- [ ] X [[to be named wolfman (Doraemon)]]
+	- [ ] X [[to be named wolfman 2 (Doraemon)]]
+	- [ ] [[Dora-nichov]]
+	- [ ] X [[to be named wolf (Doraemon)]]
+	- [ ] [[Movie Werewolf Husband]]
+	- [ ] [[Werewolf Doraemon]]
+	- [ ] [[Werewolf Nobita]]
 - Dragon Ball
 	- [ ] [[Man Wolf]]
 	- Z
