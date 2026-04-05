@@ -1,0 +1,6 @@
+---
+lastSync: Sun Jan 18 2026 22:15:14 GMT-0500 (Eastern Standard Time)
+---
+
+![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a67c325a-98a6-494d-9fef-d4efd2c975ef/dkzxtpx-ba53aa91-358b-4b3f-8cd7-b0d1812d5047.jpg/v1/fill/w_630,h_630,q_75,strp/kaiketsu_zorori_season_2_episode_52_by_giudirosso_dkzxtpx-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjMwIiwicGF0aCI6Ii9mL2E2N2MzMjVhLTk4YTYtNDk0ZC05ZmVmLWQ0ZWZkMmM5NzVlZi9ka3p4dHB4LWJhNTNhYTkxLTM1OGItNGIzZi04Y2Q3LWIwZDE4MTJkNTA0Ny5qcGciLCJ3aWR0aCI6Ijw9NjMwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.hX-sRBK02-4hU_SXcB-CERa2MkR3BxMX5HAeSyUiilk)
+

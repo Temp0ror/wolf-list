@@ -1,5 +1,5 @@
 ---
-lastSync: Sun Jan 18 2026 20:49:55 GMT-0500 (Eastern Standard Time)
+lastSync: Sun Apr 05 2026 13:41:36 GMT-0400 (Eastern Daylight Time)
 title: Welcome to Quartz
 ---
 
@@ -12,4 +12,6 @@ original list imported from Obsidian MarkDown (pretty jank) [[Wolf+ Characters]]
 
 HTML attempt to correct layout and formatting issues (also jank) [[Wolf+ Character HTML]]
 
-manually edited categories to correct layout clumping and bunching, click this one ----> [[Wolf+ Characters Reformated]]
+manually edited categories to correct layout clumping and bunching, click this one --> [[Wolf+ Characters Reformated]]
+
+Rough task list for features to be tweaked, improved and added [[Updates Task List]]

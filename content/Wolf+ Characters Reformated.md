@@ -1,5 +1,5 @@
 ---
-lastSync: Sun Jan 18 2026 21:18:35 GMT-0500 (Eastern Standard Time)
+lastSync: Tue Feb 03 2026 20:45:09 GMT-0500 (Eastern Standard Time)
 ---
 Browse my weres
 
@@ -201,7 +201,7 @@ Legend:
 	- [ ] X [[to be named wolfman (Doraemon)]]
 	- [ ] X [[to be named wolfman 2 (Doraemon)]]
 	- [ ] [[Dora-nichov]]
-	- [ ] X [[to be named wolf (Doraemon)]]
+	- [ ] X [[to be named wolfy-looking dog (Doraemon)]]
 	- [ ] [[Movie Werewolf Husband]]
 	- [ ] [[Werewolf Doraemon]]
 	- [ ] [[Werewolf Nobita]]
@@ -510,7 +510,9 @@ Legend:
 - Noah's Ark (2007)
 	- [ ] [[Wolfgang(NA)]]
 - Nu Pogodi
-	[- [ ] [Volk(NP)]]
+	- [ ] [[Volk(NP)]]
+- Nura: Rise of the Yokai Clan/Nurarihyon no Mago(Nurahiyon's Grandson)
+	- [ ] [[Inugami(NRotYC)]]
 
 ## O
 
@@ -884,7 +886,7 @@ Legend:
 - Comic Strip
 	- Mini-Monster
 		- [ ] [[Wolfie(Mini-Monsters)]]
-- CyberCOnnect2
+- CyberConnect2
 	- Tail Concerto
 	- Solatorobo
 		- [ ] [[Bruno]]
@@ -944,7 +946,8 @@ Legend:
 - Pinocchio
 	- [ ] [["Honest" John Foulfellow]]
 - Pop n' Music
-	- [ ] [[Foxy]]
+	- [ ] [[Foxy(PNM)]]
+	- [ ] [[Yamabuki]]
 - Pricefox
 	- [ ] [[Pricefox]]
 - Shining Wind
@@ -956,3 +959,5 @@ Legend:
 	- [ ] [[Lie-in Heart]]
 
 back to [[index]]
+
+lycan subscribe
