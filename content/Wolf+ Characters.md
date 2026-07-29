@@ -1,5 +1,5 @@
 ---
-lastSync: Tue Jul 28 2026 19:20:30 GMT-0400 (Eastern Daylight Time)
+lastSync: Tue Jul 28 2026 20:56:18 GMT-0400 (Eastern Daylight Time)
 ---
 Browse my weres
 
@@ -102,8 +102,6 @@ Bloodborne
 	[[Vicar Amelia]]
 Bloody Roar
 	[[Hugo]]
-The Blue Wolf and the White Doe (蒼き狼と白き牝鹿)
-	[[Blue Wolf]]
 Bonkers
 	[[Big Bad Wolf(Bonkers)]]
 	[[Mean Old Wolf]]
@@ -354,8 +352,6 @@ The Jungle Book
 ## K
 
 Kaiketsu Zorori
-	Kaiketsu Zorori
-		[[Werewolf(KZ)]]
 	Majime ni Fumajime Kaiketsu Zorori
 		[[Big Bad Wolf(Blow Down the Piglet's House)]]
 		[[Gaon]]

@@ -1,5 +1,5 @@
 ---
-lastSync: Tue Feb 03 2026 20:45:09 GMT-0500 (Eastern Standard Time)
+lastSync: Tue Jul 28 2026 20:57:42 GMT-0400 (Eastern Daylight Time)
 ---
 Browse my weres
 
@@ -106,6 +106,8 @@ Legend:
 	- [ ] [[Vicar Amelia]]
 - Bloody Roar
 	- [ ] [[Hugo]]
+- The Blue Wolf and the White Doe (蒼き狼と白き牝鹿)
+	- [ ] [[Blue Wolf]]
 - Bonkers
 	- [ ] [[Big Bad Wolf(Bonkers)]]
 	- [ ] [[Mean Old Wolf]]
@@ -379,7 +381,9 @@ Legend:
 ## K
 
 - Kaiketsu Zorori
-	- Majime no Fumajime Kaiketsu Zorori
+	- Kaiketsu Zorori
+		- [ ] [[Werewolf(KZ)]]
+	- Majime ni Fumajime Kaiketsu Zorori
 		- [ ] [[Big Bad Wolf(Blow Down the Piglet's House)]]
 		- [ ] [[Gaon]]
 		- [ ] [[Leroux]]
