@@ -1,5 +1,5 @@
 ---
-lastSync: Tue Jul 28 2026 20:57:42 GMT-0400 (Eastern Daylight Time)
+lastSync: Sun Aug 16 2026 00:51:51 GMT-0400 (Eastern Daylight Time)
 ---
 Browse my weres
 
@@ -513,6 +513,10 @@ Legend:
 	- [ ] [[Big Bad Wolf(NLP(aTH)CF!tSotTLPaTbtW)]]
 - Noah's Ark (2007)
 	- [ ] [[Wolfgang(NA)]]
+- North Carolina State University
+	- [ ] [[Tuffy]]
+	- [ ] [[Mr. Wuf]]
+	- [ ] [[Ms. Wuf]]
 - Nu Pogodi
 	- [ ] [[Volk(NP)]]
 - Nura: Rise of the Yokai Clan/Nurarihyon no Mago(Nurahiyon's Grandson)
@@ -579,7 +583,9 @@ Legend:
 - Revengers of Vengeance/Battle Fantasy (バトルファンタシー)
 	- [ ] [[Barko]]
 - Revolting Rhymes
-	- [ ] [[Big Bad Wolf(RR)]]
+	- [ ] [[Rex(RR)]]
+	- [ ] [[Rolf(RR)]]
+	- [ ] [[Wolf(RR)]]
 - Re:Zero
 	- [ ] [[Ricardo Welkin]]
 - Rhymestar(ライムスタ)
@@ -638,7 +644,7 @@ Legend:
 	- Force: The legacy of Great Intention
 		- [ ] [[Zylo]]
 	- Force III
-        - [x] [[Frank]]
+        - [ ] [[Frank]]
 	- Force EXA
 		- [ ] [[Duga]]
 	- Force Neo
@@ -902,12 +908,13 @@ Legend:
          - [ ] [[Goresby-Purrvis]]
 - Housamo
 - Kirby
-	-and the Forgotten Land
+	- and the Forgotten Land
 		- [ ] [[Leongar]]
 - Monster Boy and the Cursed Kingdom
 - Mystery Skulls
-	- [ ] [[Mystery
-- Smooshwolves
+	- [ ] [[Mystery]]
+- Smoosh Wolves
+	- [[The Smooshfiles]]
 - Three little bops
 	- [ ] wolf
 - Tokyo Afterschool Summoners
