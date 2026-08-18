@@ -1,5 +1,5 @@
 ---
-lastSync: Sun Aug 16 2026 00:51:51 GMT-0400 (Eastern Daylight Time)
+lastSync: Mon Aug 17 2026 23:14:59 GMT-0400 (Eastern Daylight Time)
 ---
 Browse my weres
 
@@ -53,8 +53,10 @@ Legend:
 	- [ ] [[Kyle]]
 	- [ ] [[Lobo]]
 	- [ ] [[Wolfgang]]
-- Animal Treasure Island
+- Animal Treasure Island(anime)
 	- [ ] [[Baron]]
+- Animal Treasure Island(theme park)
+	- [ ]  [[Pirates(ATI)]]
 - Another Eden
 	- [ ] [[Lokido]]
 - Araiguma Calcal-dan
@@ -146,6 +148,8 @@ Legend:
 
 - Campfire Cooking in Another World with My Absurd Skill
 	- [ ] [[Fel]]
+- Captain N: The Game Master
+	- [ ] [[Dr. Gari-Gari]]
 - Castle Films
 	- Little Boy Blue/The Big Bad Wolf
 		- [ ] [[Big Bad Wolf(LBB TBBW)]]
@@ -454,6 +458,8 @@ Legend:
 		- [ ] [[Big Bad Wolf(SMBSS)]]
 - Martin Mystery
 	- [ ] [[Werewolf Martin]]
+- Mary Poppins
+	- [ ] [[Mr. Wilkins]]
 - Mega Man
 	- Network
 		- [ ] [[Gregar]]
