@@ -1,5 +1,5 @@
 ---
-lastSync: Mon Aug 17 2026 23:14:59 GMT-0400 (Eastern Daylight Time)
+lastSync: Thu Aug 20 2026 12:31:16 GMT-0400 (Eastern Daylight Time)
 ---
 Browse my weres
 
@@ -448,6 +448,8 @@ Legend:
 
 ## M
 
+- MAD
+	- [ ] [[Big Bad Wolf(MAD)]]
 - Mana
 	- [ ] [[Werewolf(Mana)]]
 	- Trials of
