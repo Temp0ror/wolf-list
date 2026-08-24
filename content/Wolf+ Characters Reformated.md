@@ -1,5 +1,5 @@
 ---
-lastSync: Thu Aug 20 2026 12:31:16 GMT-0400 (Eastern Daylight Time)
+lastSync: Mon Aug 24 2026 18:19:58 GMT-0400 (Eastern Daylight Time)
 ---
 Browse my weres
 
@@ -536,11 +536,13 @@ Legend:
 	- [ ] [[Big Bad O.G. Readmore]]
 	- [ ] [[Big Bad Wolf(O.G.R)]]
 - Okage: Shadow King
-	- [ ] [[Lone Wolf(O:SK)]] [source](https://okageshadowking.fandom.com/wiki/Lone_Wolf)
+	- [ ] [[Lone Wolf(OSK)]]
+- Old Wolf's Treat (A Sly Fox, Lao Lang Qingke, 老狼请吃鸡, 老狼請客)
+	- [ ] [[Wolf(OWT)]]
 - Olympics
 	- [ ] [[Vucko]]
 - One piece
-	- [x] [[Jyabura / Jabra]]
+	- [ ] [[Jyabura / Jabra]]
 	- [ ] [[Skypiea Wolves]]
 	- [ ] [[Wolf (assassin)]]
 	- [ ] [[Wolf Mink]]

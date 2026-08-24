@@ -1,5 +1,9 @@
 ---
-lastSync: Sat Aug 15 2026 03:08:34 GMT-0400 (Eastern Daylight Time)
+lastSync: Mon Aug 24 2026 18:19:45 GMT-0400 (Eastern Daylight Time)
+tags:
+  - completion/minor
+  - species/wolf
+  - type/2D
 ---
 
 Characters created by Tehsquishyray/Tehray/Asbigasawhale
