@@ -1,5 +1,5 @@
 ---
-lastSync: Mon Aug 24 2026 18:19:58 GMT-0400 (Eastern Daylight Time)
+lastSync: Fri Aug 28 2026 03:13:46 GMT-0400 (Eastern Daylight Time)
 ---
 Browse my weres
 
@@ -189,9 +189,22 @@ Legend:
 - Demon Chaos/Ikusagami
 	- [ ] [[Inugami]]
 - Digimon
+	- [ ] [[Belphemon]]
 	- [ ] [[Fangmon]]
+	- [ ] [[Filmon]]
+	- [ ] [[Gaogamon]]
+	- [ ] [[Gaomon]]
 	- [ ] [[Hyemon]]
+	- [ ] [[Logamon]]
+	- [ ] [[Loogamon]]
+	- [ ] [[Loogarmon]]
+	- [ ] [[Mach Gaogamon]]
+	- [ ] [[Rasenmon]]
+	- [ ] [[Rasenmon Fury Mode]]
 	- [ ] [[Sekkamon]]
+	- [ ] [[Shutmon]]
+	- [ ] [[Soloogarmon]]
+	- [ ] [[Stiffilmon]]
 	- [ ] [[Weregarurumon]]
 - Dislyte
 	- [ ] [[Freddy]]
