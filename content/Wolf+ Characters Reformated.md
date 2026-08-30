@@ -1,11 +1,12 @@
 ---
-lastSync: Fri Aug 28 2026 14:43:01 GMT-0400 (Eastern Daylight Time)
+lastSync: Fri Aug 28 2026 14:47:16 GMT-0400 (Eastern Daylight Time)
 ---
 Browse my weres
 
 Legend:
 X = Need to research name
 - [x] = already included in a (Were)WolfWednesday post (to be included with link to the respective post)
+
 \* = special case of series of appearance (can be subjected to change)
 
 # Wolves
