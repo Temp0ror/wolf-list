@@ -1,5 +1,5 @@
 ---
-lastSync: Fri Aug 28 2026 14:47:16 GMT-0400 (Eastern Daylight Time)
+lastSync: Thu Sep 03 2026 19:41:58 GMT-0400 (Eastern Daylight Time)
 ---
 Browse my weres
 
@@ -352,6 +352,9 @@ X = Need to research name
 
 ## H
 
+- Happily Ever After: Fairy Tales for Every Child
+	- [ ] [[Big Bad Wolf(HEAFTfEC)]]
+	- [ ] [[Wolves(HEAFTfEC)]]
 - Harlecore
 	- [ ] [[DJ Mayhem]]
 - HeroVersus
