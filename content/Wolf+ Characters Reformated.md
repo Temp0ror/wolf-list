@@ -1,5 +1,5 @@
 ---
-lastSync: Thu Sep 03 2026 19:41:58 GMT-0400 (Eastern Daylight Time)
+lastSync: Sat Sep 05 2026 14:29:45 GMT-0400 (Eastern Daylight Time)
 ---
 Browse my weres
 
@@ -55,6 +55,8 @@ X = Need to research name
 	- [ ] [[Kyle]]
 	- [ ] [[Lobo]]
 	- [ ] [[Wolfgang]]
+- Animal Man
+	- [ ] [[Coyote(AM)]]
 - Animal Treasure Island(anime)
 	- [ ] [[Baron]]
 - Animal Treasure Island(theme park)
@@ -210,6 +212,7 @@ X = Need to research name
 	- [ ] [[Weregarurumon]]
 - Dislyte
 	- [ ] [[Freddy]]
+	- [ ] [[Freddy (Meta Fenrir)]]
 	- [ ] [[Wenlock]]
 - Disney
 	- [ ] [[Pipwolf]]
@@ -609,6 +612,8 @@ X = Need to research name
 		- [ ] [[Alexander Graham Wolf]]
 - Rampage
 	- [ ] [[Ralph]]
+- Raw Toonage
+	- [ ] [[Big Bad Wolf(RT)]]
 - The Real Tuesday Weld
 	- [ ] [[Mr. Wolf(TRTW)]]
 - Regular Show
@@ -734,10 +739,12 @@ X = Need to research name
 	- [ ] [[Voolvif Monn]]
 	- Skeleton Crew
 		- [ ] [[Brutus]]
-- Storks
-	- [ ] [[Wolves(storks)]]
 - Static Shock
 	- [ ] [[Werewolf (SS)]]
+- Storks
+	- [ ] [[Wolves(storks)]]
+- Stupid Never Dies
+	- [ ] [[Wolfgang Werner Winfried]]
 - Suikoden
 	- III
 		- [ ] [[Branky]]
@@ -957,6 +964,10 @@ X = Need to research name
 	- [ ] Studiocanal
 - Wolf Children
 - Wolf King
+
+## Mystery
+
+- [ ] [[Big Bad Wolf(VHS cover)]]
 
 
 # Foxes
