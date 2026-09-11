@@ -1,5 +1,5 @@
 ---
-lastSync: Thu Sep 10 2026 23:17:27 GMT-0400 (Eastern Daylight Time)
+lastSync: Fri Sep 11 2026 02:56:43 GMT-0400 (Eastern Daylight Time)
 ---
 Browse my weres
 
@@ -758,7 +758,7 @@ X = Need to research name
 	- V
 		- [ ] [[Ulse(SV)]]
 	- STAR LEAP
-		- [] [[Ulse(SSL)]]
+		- [ ] [[Ulse(SSL)]]
 	- Tierkreis
 		- [ ] [[Diulf]]
 - Symbicort
