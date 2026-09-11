@@ -1,5 +1,5 @@
 ---
-lastSync: Sat Sep 05 2026 14:29:45 GMT-0400 (Eastern Daylight Time)
+lastSync: Thu Sep 10 2026 23:17:27 GMT-0400 (Eastern Daylight Time)
 ---
 Browse my weres
 
@@ -198,6 +198,7 @@ X = Need to research name
 	- [ ] [[Filmon]]
 	- [ ] [[Gaogamon]]
 	- [ ] [[Gaomon]]
+	- [ ] [[Helloogarmon]]
 	- [ ] [[Hyemon]]
 	- [ ] [[Logamon]]
 	- [ ] [[Loogamon]]
@@ -305,6 +306,7 @@ X = Need to research name
 		- [ ] [[Lupin]]
 - Five Night at Freddy's
 	- [ ] [[Roxanne Wolf(F)]]
+	- [ ] [[Twisted Wolf]]
 - Ford Winstar commercial
 	- [ ] [[Ford Big Bad Wolf]]
 - The Forest Chronicle
@@ -481,6 +483,9 @@ X = Need to research name
 	- Trials of
 		- [ ] [[Gauser]]
 		- [ ] [[Kevin]]
+- MAR(Marchen Awakens Romance)
+	- [ ] [[Garu]]
+	- [ ] [[Ruga]]
 - Mario
 	- Super Mario Bros. Super Show!
 		- [ ] [[Big Bad Wolf(SMBSS)]]
@@ -746,8 +751,16 @@ X = Need to research name
 - Stupid Never Dies
 	- [ ] [[Wolfgang Werner Winfried]]
 - Suikoden
+	- II
+		- [ ] [[True Beast Rune]]
 	- III
 		- [ ] [[Branky]]
+	- V
+		- [ ] [[Ulse(SV)]]
+	- STAR LEAP
+		- [] [[Ulse(SSL)]]
+	- Tierkreis
+		- [ ] [[Diulf]]
 - Symbicort
 	- [ ] [[Symbicort Wolves]]
 
@@ -932,7 +945,7 @@ X = Need to research name
 	- [ ] king rogue wolf
 - Big bad wolf fairy tales retold
 - Bonkers
-	T- [ ] he Collector
+	- [ ] The Collector
 - Comic Strip
 	- Mini-Monster
 		- [ ] [[Wolfie(Mini-Monsters)]]
@@ -954,7 +967,10 @@ X = Need to research name
 - Mystery Skulls
 	- [ ] [[Mystery]]
 - Smoosh Wolves
-	- [[The Smooshfiles]]
+	- [ ] [[The Smooshfiles]]
+- Suikoden
+	- Tierkreis
+		- [ ] [[Cougar(ST)]]
 - Three little bops
 	- [ ] wolf
 - Tokyo Afterschool Summoners

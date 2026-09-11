@@ -1,9 +1,10 @@
 ---
-lastSync: Fri Aug 28 2026 14:33:31 GMT-0400 (Eastern Daylight Time)
+lastSync: Sat Sep 05 2026 15:01:10 GMT-0400 (Eastern Daylight Time)
 tags:
   - completion/low
   - species/wolf
   - type/spritework
+  - status/broken
 ---
 
 ![](https://static.wikia.nocookie.net/finalfantasy/images/9/98/Tsuze.gif/revision/latest?cb=20110210071653)

@@ -1,9 +1,10 @@
 ---
-lastSync: Mon Aug 17 2026 23:25:37 GMT-0400 (Eastern Daylight Time)
+lastSync: Sat Sep 05 2026 15:02:06 GMT-0400 (Eastern Daylight Time)
 tags:
   - completion/minor
   - species/wolf
   - type/2D
+  - status/broken
 ---
 
 ![](https://static.wikia.nocookie.net/villains/images/9/9b/Marypoppinsreturns-animationscreencaps_com-6451.jpg/revision/latest/scale-to-width-down/1000?cb=20190726145515)

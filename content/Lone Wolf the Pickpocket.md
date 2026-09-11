@@ -1,9 +1,10 @@
 ---
-lastSync: Fri Aug 28 2026 14:15:10 GMT-0400 (Eastern Daylight Time)
+lastSync: Sat Sep 05 2026 14:59:34 GMT-0400 (Eastern Daylight Time)
 tags:
   - completion/low
   - species/wolf
   - type/spritework
+  - status/broken
 ---
 
 ![](https://static.wikia.nocookie.net/finalfantasy/images/f/fd/FF6_Lone_Wolf.png/revision/latest?cb=20200618043957)
