@@ -1,5 +1,5 @@
 ---
-lastSync: Fri Sep 11 2026 02:56:43 GMT-0400 (Eastern Daylight Time)
+lastSync: Thu Sep 17 2026 00:59:27 GMT-0400 (Eastern Daylight Time)
 ---
 Browse my weres
 
@@ -37,6 +37,8 @@ X = Need to research name
 	- [ ] [[Party God]]
 - The Adventures of Br'er Rabbit
 	- [ ] [[Br'er Wolf]]
+- Akazukin-chan 
+	- Returns
 - Akela
 	- Fekete Bárány
 		- [ ] [[Nerdy BBW]]
@@ -88,7 +90,9 @@ X = Need to research name
 	- [ ] [[Xingo]]
 - Beauty and the Beast
 	- [ ] [[Forest Wolves]]
--  Billie Bust Up
+- Big Bad Wolf
+	- [ ] [[Big Bad Wolf((BBW))]]
+- Billie Bust Up
 	- [ ] [[Dutch the Wolf]]
 - Black Myth Wukong
 	- [ ] [[Guangzhi]]
@@ -110,6 +114,11 @@ X = Need to research name
 - Bloodborne
 	- [ ] [[Cleric Beast]]
 	- [ ] [[Vicar Amelia]]
+- Bloodstained
+	- Ritual of the Night
+		- [ ] [[Gieremund]]
+		- [ ] [[Silver Wolfman]]
+		- [ ] [[Wolfman(BRotN)]]
 - Bloody Roar
 	- [ ] [[Hugo]]
 - The Blue Wolf and the White Doe (蒼き狼と白き牝鹿)
@@ -347,6 +356,8 @@ X = Need to research name
 	- [ ] [[Wolfkin(GS)]]
 - Goosebumps
 	- [ ] [[The Werewolf of Fever Swamp]]
+- Greedy Wolf
+	- [ ] [[Big Bad Wolf(GW)]]
 - Guild Wars 2
 	- [ ] [[Rytlock Brimstone]]
 - Guilty Gear
@@ -516,6 +527,9 @@ X = Need to research name
 	- [ ] [[Lunar]]
 - Monster in my Pocket
 	- [ ] [[Dee Wolfman]]
+- Monster Mash (2000)
+	- [ ] [[Wolf(MM)]]
+	- [ ] [[Wolfman(MM)]]
 - Moviefone
 	- [ ] [[Granny Wolf]]
 - Mr. Birchum
@@ -591,20 +605,33 @@ X = Need to research name
 	- [ ] [[Thug B]]
 ## P
 
+- Party Animals
+	- [ ] [[Logan]]
 - Peter and the Wolf
 	- [ ] [[Wolf((PatW))]]
+- Petz
+	- 2
+		- [ ] [[Ivlet]]
 - Phantom Brave
 	- [ ] [[Werewolf (PB)]]
 	- 2 The Lost Hero
 		- [ ] [[Rouen(PB)]]
+- Pigs and Wolf
+	- [ ] [[Wolf(PaW)]]
 - Pink Panther
 	- [ ] [[Werewolf(PP)]]
 - Pokemon
 	- [ ] [[Lycanroc(Midnight Form)]]
+	- [ ] [[Mightyena]]
 - Pop'n Music
 	- [ ] [[Wolfgang PNM]]
 - Pretty Cure
 	- [ ] [[Wolfrun]]
+- Princess maker
+	- 1
+		- [ ] [[Wolf(PM)]]
+	- 2
+		- [ ] [[Wolf(PM2)]]
 - Puss in Boots
 	- [ ] [[Death]]
 
@@ -631,6 +658,9 @@ X = Need to research name
 	- [ ] [[Wolf(RR)]]
 - Re:Zero
 	- [ ] [[Ricardo Welkin]]
+- Regal Academy
+	- [ ] [[Bad Wolf]]
+	- [ ] [[Wolfram]]
 - Rhymestar(ライムスタ)
 	- [ ] [[Gaosu(ガオース)]]
 - Road Rovers
@@ -804,6 +834,8 @@ X = Need to research name
 	- [ ] [[Ranga]]
 - Three Little Wolves and the Big Bad Pig
 	- [ ] [[Three Little Wolves]]
+- Three Wild Pigs and the Big Bad Wolf
+	- [ ] [[Big Bad Wolf(TWPatBBW)]]
 - Titan's Bride
 	- [ ] [[Palo Barrows]]
 - To the Abandoned Sacred Beasts
@@ -894,6 +926,8 @@ X = Need to research name
 	- [ ] [[Werewolf(WO)]]
 - Wolf and Gopher
 	- [ ] [[Wolf(WaG)]]
+- Wolf and Pigs
+	- [ ] [[Wolf(WaP)]]
 - Wolf children
 	- [ ] [[Wolf children]]
 	- [ ] [[Father]]
@@ -944,6 +978,10 @@ X = Need to research name
 - Alpha and Omega
 	- [ ] king rogue wolf
 - Big bad wolf fairy tales retold
+- Bloodstained
+	- Ritual of the Night
+		- [ ] [[Marbas]]
+		- [ ] [[Sabnock]]
 - Bonkers
 	- [ ] The Collector
 - Comic Strip

@@ -1,15 +1,22 @@
 ---
-lastSync: Sat Sep 05 2026 15:01:44 GMT-0400 (Eastern Daylight Time)
+lastSync: Sun Sep 13 2026 21:52:37 GMT-0400 (Eastern Daylight Time)
 tags:
   - completion/minor
   - species/wolf
   - type/2D
-  - status/broken
 ---
 
 
 ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fami.animecharactersdatabase.com%2Fuploads%2Fchars%2F9180-311287412.jpg&f=1&nofb=1&ipt=13e95c67697426ca0609896fce4552025e2ec2ed46c8d0ac66d750bf14e0d516)
+
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fami.animecharactersdatabase.com%2Fuploads%2Fchars%2F9180-793405797.jpg&f=1&nofb=1&ipt=8c7833b58edacd0d4e5f286ca32484237191b8494b3fb9c02f781d7227df0f5b)
+
+
 ![](https://static.wikia.nocookie.net/nintenshows/images/e/e1/Snapshot20120406182714.jpg/revision/latest?cb=20120406164245)
 
 
 https://www.youtube.com/watch?v=_a09zjt-0IM
+
+https://www.animecharactersdatabase.com/characters.php?id=90740
+
+https://captainn.fandom.com/wiki/Dr._Gari-Gari
