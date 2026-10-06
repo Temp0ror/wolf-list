@@ -1,5 +1,5 @@
 ---
-lastSync: Fri Aug 28 2026 01:45:16 GMT-0400 (Eastern Daylight Time)
+lastSync: Tue Sep 29 2026 15:52:34 GMT-0400 (Eastern Daylight Time)
 title: Welcome to Quartz
 ---
 
@@ -14,6 +14,6 @@ HTML attempt to correct layout and formatting issues (also jank) [[Wolf+ Charact
 
 manually edited categories to correct layout clumping and bunching, click this one --> [[Wolf+ Characters Reformated]]
 
-Rough task list for features to be tweaked, improved and added [[Updates Task List]]
+Rough task list for features to be tweaked, improved and added [[Update Task List]]
 
 Base testing [[Main Base.base]]

@@ -172,23 +172,11 @@ LOG: Exited getLatestContent
 
 LOG: Entering checkAndEmptySyncQueue
 
-LOG: Entering getLatestContent
-
-LOG: Exited getLatestContent
-
 LOG: Entering checkAndEmptySyncQueue
 
 LOG: Entering checkAndEmptySyncQueue
 
 LOG: Entering checkAndEmptySyncQueue
-
-LOG: created file while online
-
-LOG: Entering uploadNewNotesFile
-
-LOG: created file while online
-
-LOG: Entering uploadNewNotesFile
 
 LOG: Entering checkAndEmptySyncQueue
 
@@ -203,6 +191,176 @@ LOG: Downloading missing files in refreshAll
 LOG: Exited refreshAll
 
 LOG: Exited getLatestContent
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering refreshFilesListInDriveAndStoreInSettings
+
+LOG: Exiting refreshFilesListInDriveAndStoreInSettings
+
+LOG: Deleting files in refreshAll
+
+LOG: Downloading missing files in refreshAll
+
+LOG: Exited refreshAll
+
+LOG: Exited getLatestContent
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering refreshFilesListInDriveAndStoreInSettings
+
+LOG: Exiting refreshFilesListInDriveAndStoreInSettings
+
+LOG: Deleting files in refreshAll
+
+LOG: Downloading missing files in refreshAll
+
+LOG: Exited refreshAll
+
+LOG: Exited getLatestContent
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering refreshFilesListInDriveAndStoreInSettings
+
+LOG: Exiting refreshFilesListInDriveAndStoreInSettings
+
+LOG: Deleting files in refreshAll
+
+LOG: Downloading missing files in refreshAll
+
+LOG: Exited refreshAll
+
+LOG: Exited getLatestContent
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering refreshFilesListInDriveAndStoreInSettings
+
+LOG: Exiting refreshFilesListInDriveAndStoreInSettings
+
+LOG: Deleting files in refreshAll
+
+LOG: Downloading missing files in refreshAll
+
+LOG: Exited refreshAll
+
+LOG: Exited getLatestContent
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering refreshFilesListInDriveAndStoreInSettings
+
+LOG: Exiting refreshFilesListInDriveAndStoreInSettings
+
+LOG: Deleting files in refreshAll
+
+LOG: Downloading missing files in refreshAll
+
+LOG: Exited refreshAll
+
+LOG: Exited getLatestContent
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering refreshFilesListInDriveAndStoreInSettings
+
+LOG: Exiting refreshFilesListInDriveAndStoreInSettings
+
+LOG: Deleting files in refreshAll
+
+LOG: Downloading missing files in refreshAll
+
+LOG: Exited refreshAll
+
+LOG: Exited getLatestContent
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering getLatestContent
+
+LOG: Exited getLatestContent
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering refreshFilesListInDriveAndStoreInSettings
+
+LOG: Exiting refreshFilesListInDriveAndStoreInSettings
+
+LOG: Deleting files in refreshAll
+
+LOG: Downloading missing files in refreshAll
+
+LOG: Exited refreshAll
+
+LOG: Exited getLatestContent
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: created file while online
+
+LOG: Entering uploadNewNotesFile
+
+LOG: created file while online
+
+LOG: Entering uploadNewNotesFile
+
+LOG: Entering checkAndEmptySyncQueue
 
 LOG: Entering refreshFilesListInDriveAndStoreInSettings
 
@@ -216,17 +374,7 @@ LOG: Entering checkAndEmptySyncQueue
 
 LOG: Entering checkAndEmptySyncQueue
 
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: modifying file while online
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering emptySyncQueue
-
-LOG: Entering updateLastSyncMetaTag
-
-LOG: Exited updateLastSyncMetaTag
+LOG: Entering refreshFilesListInDriveAndStoreInSettings
 
 LOG: Exiting refreshFilesListInDriveAndStoreInSettings
 
@@ -239,13 +387,7 @@ LOG: Exited refreshAll
 LOG: Exited getLatestContent
 
 LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering refreshFilesListInDriveAndStoreInSettings
-
-LOG: Exiting refreshFilesListInDriveAndStoreInSettings
 
-LOG: Exited emptySyncQueue
-
 LOG: Entering checkAndEmptySyncQueue
 
 LOG: Entering checkAndEmptySyncQueue
@@ -439,32 +581,10 @@ LOG: Deleting files in refreshAll
 LOG: Downloading missing files in refreshAll
 
 LOG: Exited refreshAll
-
-LOG: Exited getLatestContent
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
 
 LOG: Entering checkAndEmptySyncQueue
 
-LOG: Entering refreshFilesListInDriveAndStoreInSettings
-
-LOG: Exiting refreshFilesListInDriveAndStoreInSettings
-
-LOG: Deleting files in refreshAll
-
-LOG: Downloading missing files in refreshAll
-
-LOG: Exited refreshAll
-
 LOG: Exited getLatestContent
-
-LOG: Entering checkAndEmptySyncQueue
 
 LOG: Entering checkAndEmptySyncQueue
 
@@ -615,32 +735,10 @@ LOG: Deleting files in refreshAll
 LOG: Downloading missing files in refreshAll
 
 LOG: Exited refreshAll
-
-LOG: Exited getLatestContent
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
 
 LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering refreshFilesListInDriveAndStoreInSettings
-
-LOG: Exiting refreshFilesListInDriveAndStoreInSettings
-
-LOG: Deleting files in refreshAll
 
-LOG: Downloading missing files in refreshAll
-
-LOG: Exited refreshAll
-
 LOG: Exited getLatestContent
-
-LOG: Entering checkAndEmptySyncQueue
 
 LOG: Entering checkAndEmptySyncQueue
 
@@ -1276,31 +1374,9 @@ LOG: Downloading missing files in refreshAll
 
 LOG: Exited refreshAll
 
-LOG: Exited getLatestContent
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
 LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering refreshFilesListInDriveAndStoreInSettings
 
-LOG: Exiting refreshFilesListInDriveAndStoreInSettings
-
-LOG: Deleting files in refreshAll
-
-LOG: Downloading missing files in refreshAll
-
-LOG: Exited refreshAll
-
 LOG: Exited getLatestContent
-
-LOG: Entering checkAndEmptySyncQueue
 
 LOG: Entering checkAndEmptySyncQueue
 
@@ -1429,32 +1505,10 @@ LOG: Deleting files in refreshAll
 LOG: Downloading missing files in refreshAll
 
 LOG: Exited refreshAll
-
-LOG: Exited getLatestContent
 
 LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering refreshFilesListInDriveAndStoreInSettings
-
-LOG: Exiting refreshFilesListInDriveAndStoreInSettings
 
-LOG: Deleting files in refreshAll
-
-LOG: Downloading missing files in refreshAll
-
-LOG: Exited refreshAll
-
 LOG: Exited getLatestContent
-
-LOG: Entering checkAndEmptySyncQueue
 
 LOG: Entering checkAndEmptySyncQueue
 
@@ -1487,29 +1541,9 @@ LOG: Entering checkAndEmptySyncQueue
 LOG: Entering checkAndEmptySyncQueue
 
 LOG: Entering refreshFilesListInDriveAndStoreInSettings
-
-LOG: Exiting refreshFilesListInDriveAndStoreInSettings
-
-LOG: Deleting files in refreshAll
-
-LOG: Downloading missing files in refreshAll
-
-LOG: Exited refreshAll
-
-LOG: Exited getLatestContent
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
 
 LOG: Entering checkAndEmptySyncQueue
 
-LOG: Entering refreshFilesListInDriveAndStoreInSettings
-
 LOG: Exiting refreshFilesListInDriveAndStoreInSettings
 
 LOG: Deleting files in refreshAll
@@ -1519,8 +1553,6 @@ LOG: Downloading missing files in refreshAll
 LOG: Exited refreshAll
 
 LOG: Exited getLatestContent
-
-LOG: Entering checkAndEmptySyncQueue
 
 LOG: Entering checkAndEmptySyncQueue
 
@@ -2111,32 +2143,10 @@ LOG: Deleting files in refreshAll
 LOG: Downloading missing files in refreshAll
 
 LOG: Exited refreshAll
-
-LOG: Exited getLatestContent
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
 
 LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering refreshFilesListInDriveAndStoreInSettings
-
-LOG: Exiting refreshFilesListInDriveAndStoreInSettings
-
-LOG: Deleting files in refreshAll
-
-LOG: Downloading missing files in refreshAll
-
-LOG: Exited refreshAll
 
 LOG: Exited getLatestContent
-
-LOG: Entering checkAndEmptySyncQueue
 
 LOG: Entering checkAndEmptySyncQueue
 
@@ -2155,32 +2165,10 @@ LOG: Deleting files in refreshAll
 LOG: Downloading missing files in refreshAll
 
 LOG: Exited refreshAll
-
-LOG: Exited getLatestContent
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
 
 LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering refreshFilesListInDriveAndStoreInSettings
-
-LOG: Exiting refreshFilesListInDriveAndStoreInSettings
-
-LOG: Deleting files in refreshAll
-
-LOG: Downloading missing files in refreshAll
 
-LOG: Exited refreshAll
-
 LOG: Exited getLatestContent
-
-LOG: Entering checkAndEmptySyncQueue
 
 LOG: Entering checkAndEmptySyncQueue
 
@@ -2397,11 +2385,11 @@ LOG: Deleting files in refreshAll
 LOG: Downloading missing files in refreshAll
 
 LOG: Exited refreshAll
-
-LOG: Exited getLatestContent
 
 LOG: Entering checkAndEmptySyncQueue
 
+LOG: Exited getLatestContent
+
 LOG: Entering checkAndEmptySyncQueue
 
 LOG: Entering checkAndEmptySyncQueue
@@ -3665,6 +3653,8 @@ LOG: Entering checkAndEmptySyncQueue
 LOG: Entering checkAndEmptySyncQueue
 
 LOG: Entering refreshFilesListInDriveAndStoreInSettings
+
+LOG: Entering checkAndEmptySyncQueue
 
 LOG: Exiting refreshFilesListInDriveAndStoreInSettings
 
@@ -3675,8 +3665,6 @@ LOG: Downloading missing files in refreshAll
 LOG: Exited refreshAll
 
 LOG: Exited getLatestContent
-
-LOG: Entering checkAndEmptySyncQueue
 
 LOG: Entering checkAndEmptySyncQueue
 
@@ -3740,9 +3728,9 @@ LOG: Downloading missing files in refreshAll
 
 LOG: Exited refreshAll
 
-LOG: Exited getLatestContent
-
 LOG: Entering checkAndEmptySyncQueue
+
+LOG: Exited getLatestContent
 
 LOG: Entering checkAndEmptySyncQueue
 
@@ -4589,6 +4577,8 @@ LOG: Entering checkAndEmptySyncQueue
 LOG: Entering checkAndEmptySyncQueue
 
 LOG: Entering refreshFilesListInDriveAndStoreInSettings
+
+LOG: Entering checkAndEmptySyncQueue
 
 LOG: Exiting refreshFilesListInDriveAndStoreInSettings
 
@@ -4608,8 +4598,6 @@ LOG: Entering checkAndEmptySyncQueue
 
 LOG: Entering checkAndEmptySyncQueue
 
-LOG: Entering checkAndEmptySyncQueue
-
 LOG: Entering refreshFilesListInDriveAndStoreInSettings
 
 LOG: Exiting refreshFilesListInDriveAndStoreInSettings
@@ -4905,12 +4893,12 @@ LOG: Deleting files in refreshAll
 LOG: Downloading missing files in refreshAll
 
 LOG: Exited refreshAll
-
-LOG: Exited getLatestContent
 
 LOG: Entering checkAndEmptySyncQueue
 
 LOG: Entering checkAndEmptySyncQueue
+
+LOG: Exited getLatestContent
 
 LOG: Entering checkAndEmptySyncQueue
 
@@ -8032,383 +8020,9 @@ LOG: Downloading missing files in refreshAll
 
 LOG: Exited refreshAll
 
-LOG: Exited getLatestContent
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering refreshFilesListInDriveAndStoreInSettings
-
-LOG: Exiting refreshFilesListInDriveAndStoreInSettings
-
-LOG: Deleting files in refreshAll
-
-LOG: Downloading missing files in refreshAll
-
-LOG: Exited refreshAll
-
-LOG: Exited getLatestContent
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering refreshFilesListInDriveAndStoreInSettings
-
-LOG: Exiting refreshFilesListInDriveAndStoreInSettings
-
-LOG: Deleting files in refreshAll
-
-LOG: Downloading missing files in refreshAll
-
-LOG: Exited refreshAll
-
-LOG: Exited getLatestContent
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering refreshFilesListInDriveAndStoreInSettings
-
-LOG: Exiting refreshFilesListInDriveAndStoreInSettings
-
-LOG: Deleting files in refreshAll
-
-LOG: Downloading missing files in refreshAll
-
-LOG: Exited refreshAll
-
-LOG: Exited getLatestContent
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering refreshFilesListInDriveAndStoreInSettings
-
-LOG: Exiting refreshFilesListInDriveAndStoreInSettings
-
-LOG: Deleting files in refreshAll
-
-LOG: Downloading missing files in refreshAll
-
-LOG: Exited refreshAll
-
-LOG: Exited getLatestContent
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering refreshFilesListInDriveAndStoreInSettings
-
-LOG: Exiting refreshFilesListInDriveAndStoreInSettings
-
-LOG: Deleting files in refreshAll
-
-LOG: Downloading missing files in refreshAll
-
-LOG: Exited refreshAll
-
-LOG: Exited getLatestContent
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering refreshFilesListInDriveAndStoreInSettings
-
-LOG: Exiting refreshFilesListInDriveAndStoreInSettings
-
-LOG: Deleting files in refreshAll
-
-LOG: Downloading missing files in refreshAll
-
-LOG: Exited refreshAll
-
-LOG: Exited getLatestContent
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering refreshFilesListInDriveAndStoreInSettings
-
-LOG: Exiting refreshFilesListInDriveAndStoreInSettings
-
-LOG: Deleting files in refreshAll
-
-LOG: Downloading missing files in refreshAll
-
-LOG: Exited refreshAll
-
-LOG: Exited getLatestContent
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering refreshFilesListInDriveAndStoreInSettings
-
-LOG: Exiting refreshFilesListInDriveAndStoreInSettings
-
-LOG: Deleting files in refreshAll
-
-LOG: Downloading missing files in refreshAll
-
-LOG: Exited refreshAll
-
-LOG: Exited getLatestContent
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering refreshFilesListInDriveAndStoreInSettings
-
-LOG: Exiting refreshFilesListInDriveAndStoreInSettings
-
-LOG: Deleting files in refreshAll
-
-LOG: Downloading missing files in refreshAll
-
-LOG: Exited refreshAll
-
-LOG: Exited getLatestContent
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering refreshFilesListInDriveAndStoreInSettings
-
-LOG: Exiting refreshFilesListInDriveAndStoreInSettings
-
-LOG: Deleting files in refreshAll
-
-LOG: Downloading missing files in refreshAll
-
-LOG: Exited refreshAll
-
-LOG: Exited getLatestContent
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering refreshFilesListInDriveAndStoreInSettings
-
-LOG: Exiting refreshFilesListInDriveAndStoreInSettings
-
-LOG: Deleting files in refreshAll
-
-LOG: Downloading missing files in refreshAll
-
-LOG: Exited refreshAll
-
-LOG: Exited getLatestContent
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering refreshFilesListInDriveAndStoreInSettings
-
-LOG: Exiting refreshFilesListInDriveAndStoreInSettings
-
-LOG: Deleting files in refreshAll
-
-LOG: Downloading missing files in refreshAll
-
-LOG: Exited refreshAll
-
-LOG: Exited getLatestContent
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering refreshFilesListInDriveAndStoreInSettings
-
-LOG: Exiting refreshFilesListInDriveAndStoreInSettings
-
-LOG: Deleting files in refreshAll
-
-LOG: Downloading missing files in refreshAll
-
-LOG: Exited refreshAll
-
-LOG: Exited getLatestContent
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering refreshFilesListInDriveAndStoreInSettings
-
-LOG: Exiting refreshFilesListInDriveAndStoreInSettings
-
-LOG: Deleting files in refreshAll
-
-LOG: Downloading missing files in refreshAll
-
-LOG: Exited refreshAll
-
-LOG: Exited getLatestContent
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering refreshFilesListInDriveAndStoreInSettings
-
-LOG: Exiting refreshFilesListInDriveAndStoreInSettings
-
-LOG: Deleting files in refreshAll
-
-LOG: Downloading missing files in refreshAll
-
-LOG: Exited refreshAll
-
-LOG: Exited getLatestContent
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering refreshFilesListInDriveAndStoreInSettings
-
-LOG: Exiting refreshFilesListInDriveAndStoreInSettings
-
-LOG: Deleting files in refreshAll
-
-LOG: Downloading missing files in refreshAll
-
-LOG: Exited refreshAll
-
-LOG: Exited getLatestContent
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
 LOG: Entering checkAndEmptySyncQueue
 
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering refreshFilesListInDriveAndStoreInSettings
-
-LOG: Exiting refreshFilesListInDriveAndStoreInSettings
-
-LOG: Deleting files in refreshAll
-
-LOG: Downloading missing files in refreshAll
-
-LOG: Exited refreshAll
-
 LOG: Exited getLatestContent
-
-LOG: Entering checkAndEmptySyncQueue
 
 LOG: Entering checkAndEmptySyncQueue
 
@@ -9616,28 +9230,8 @@ LOG: Downloading missing files in refreshAll
 
 LOG: Exited refreshAll
 
-LOG: Exited getLatestContent
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
 LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering refreshFilesListInDriveAndStoreInSettings
-
-LOG: Exiting refreshFilesListInDriveAndStoreInSettings
-
-LOG: Deleting files in refreshAll
 
-LOG: Downloading missing files in refreshAll
-
-LOG: Exited refreshAll
-
 LOG: Exited getLatestContent
 
 LOG: Entering checkAndEmptySyncQueue
@@ -9648,8 +9242,6 @@ LOG: Entering checkAndEmptySyncQueue
 
 LOG: Entering checkAndEmptySyncQueue
 
-LOG: Entering checkAndEmptySyncQueue
-
 LOG: Entering refreshFilesListInDriveAndStoreInSettings
 
 LOG: Exiting refreshFilesListInDriveAndStoreInSettings
@@ -9945,32 +9537,10 @@ LOG: Deleting files in refreshAll
 LOG: Downloading missing files in refreshAll
 
 LOG: Exited refreshAll
-
-LOG: Exited getLatestContent
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
 
 LOG: Entering checkAndEmptySyncQueue
 
-LOG: Entering refreshFilesListInDriveAndStoreInSettings
-
-LOG: Exiting refreshFilesListInDriveAndStoreInSettings
-
-LOG: Deleting files in refreshAll
-
-LOG: Downloading missing files in refreshAll
-
-LOG: Exited refreshAll
-
 LOG: Exited getLatestContent
-
-LOG: Entering checkAndEmptySyncQueue
 
 LOG: Entering checkAndEmptySyncQueue
 
@@ -10671,28 +10241,8 @@ LOG: Deleting files in refreshAll
 LOG: Downloading missing files in refreshAll
 
 LOG: Exited refreshAll
-
-LOG: Exited getLatestContent
-
-LOG: Entering checkAndEmptySyncQueue
 
 LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering refreshFilesListInDriveAndStoreInSettings
-
-LOG: Exiting refreshFilesListInDriveAndStoreInSettings
-
-LOG: Deleting files in refreshAll
-
-LOG: Downloading missing files in refreshAll
-
-LOG: Exited refreshAll
 
 LOG: Exited getLatestContent
 
@@ -10704,8 +10254,6 @@ LOG: Entering checkAndEmptySyncQueue
 
 LOG: Entering checkAndEmptySyncQueue
 
-LOG: Entering checkAndEmptySyncQueue
-
 LOG: Entering refreshFilesListInDriveAndStoreInSettings
 
 LOG: Exiting refreshFilesListInDriveAndStoreInSettings
@@ -10847,32 +10395,10 @@ LOG: Deleting files in refreshAll
 LOG: Downloading missing files in refreshAll
 
 LOG: Exited refreshAll
-
-LOG: Exited getLatestContent
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
 
 LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering refreshFilesListInDriveAndStoreInSettings
-
-LOG: Exiting refreshFilesListInDriveAndStoreInSettings
 
-LOG: Deleting files in refreshAll
-
-LOG: Downloading missing files in refreshAll
-
-LOG: Exited refreshAll
-
 LOG: Exited getLatestContent
-
-LOG: Entering checkAndEmptySyncQueue
 
 LOG: Entering checkAndEmptySyncQueue
 
@@ -11133,46 +10659,10 @@ LOG: Deleting files in refreshAll
 LOG: Downloading missing files in refreshAll
 
 LOG: Exited refreshAll
-
-LOG: Exited getLatestContent
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: modifying file while online
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering emptySyncQueue
 
-LOG: Entering updateLastSyncMetaTag
-
-LOG: Exited updateLastSyncMetaTag
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering refreshFilesListInDriveAndStoreInSettings
-
-LOG: Exiting refreshFilesListInDriveAndStoreInSettings
-
-LOG: Exited emptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
 LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering refreshFilesListInDriveAndStoreInSettings
-
-LOG: Exiting refreshFilesListInDriveAndStoreInSettings
-
-LOG: Deleting files in refreshAll
-
-LOG: Downloading missing files in refreshAll
-
-LOG: Exited refreshAll
 
 LOG: Exited getLatestContent
-
-LOG: Entering checkAndEmptySyncQueue
 
 LOG: Entering checkAndEmptySyncQueue
 
@@ -11205,28 +10695,8 @@ LOG: Entering checkAndEmptySyncQueue
 LOG: Entering checkAndEmptySyncQueue
 
 LOG: Entering refreshFilesListInDriveAndStoreInSettings
-
-LOG: Exiting refreshFilesListInDriveAndStoreInSettings
-
-LOG: Deleting files in refreshAll
-
-LOG: Downloading missing files in refreshAll
-
-LOG: Exited refreshAll
-
-LOG: Exited getLatestContent
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
 
 LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering refreshFilesListInDriveAndStoreInSettings
 
 LOG: Exiting refreshFilesListInDriveAndStoreInSettings
 
@@ -11237,8 +10707,6 @@ LOG: Downloading missing files in refreshAll
 LOG: Exited refreshAll
 
 LOG: Exited getLatestContent
-
-LOG: Entering checkAndEmptySyncQueue
 
 LOG: Entering checkAndEmptySyncQueue
 
@@ -11301,30 +10769,10 @@ LOG: Deleting files in refreshAll
 LOG: Downloading missing files in refreshAll
 
 LOG: Exited refreshAll
-
-LOG: Exited getLatestContent
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
 
 LOG: Entering checkAndEmptySyncQueue
 
 LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering refreshFilesListInDriveAndStoreInSettings
-
-LOG: Exiting refreshFilesListInDriveAndStoreInSettings
-
-LOG: Deleting files in refreshAll
-
-LOG: Downloading missing files in refreshAll
-
-LOG: Exited refreshAll
-
-LOG: Exited getLatestContent
 
 LOG: Entering checkAndEmptySyncQueue
 
@@ -11340,6 +10788,16 @@ LOG: Entering updateLastSyncMetaTag
 
 LOG: Exited updateLastSyncMetaTag
 
+LOG: Exiting refreshFilesListInDriveAndStoreInSettings
+
+LOG: Deleting files in refreshAll
+
+LOG: Downloading missing files in refreshAll
+
+LOG: Exited refreshAll
+
+LOG: Exited getLatestContent
+
 LOG: Entering checkAndEmptySyncQueue
 
 LOG: Entering refreshFilesListInDriveAndStoreInSettings
@@ -11347,6 +10805,34 @@ LOG: Entering refreshFilesListInDriveAndStoreInSettings
 LOG: Exiting refreshFilesListInDriveAndStoreInSettings
 
 LOG: Exited emptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering refreshFilesListInDriveAndStoreInSettings
+
+LOG: Exiting refreshFilesListInDriveAndStoreInSettings
+
+LOG: Deleting files in refreshAll
+
+LOG: Downloading missing files in refreshAll
+
+LOG: Exited refreshAll
+
+LOG: Exited getLatestContent
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
 
 LOG: Entering checkAndEmptySyncQueue
 
@@ -11482,6 +10968,42 @@ LOG: Exited refreshAll
 
 LOG: Exited getLatestContent
 
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Exiting refreshFilesListInDriveAndStoreInSettings
+
+LOG: Exited emptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: modifying file while online
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering emptySyncQueue
+
+LOG: Entering updateLastSyncMetaTag
+
+LOG: Exited updateLastSyncMetaTag
+
+LOG: Exiting refreshFilesListInDriveAndStoreInSettings
+
+LOG: Deleting files in refreshAll
+
+LOG: Downloading missing files in refreshAll
+
+LOG: Exited refreshAll
+
+LOG: Exited getLatestContent
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering refreshFilesListInDriveAndStoreInSettings
+
 LOG: Exiting refreshFilesListInDriveAndStoreInSettings
 
 LOG: Exited emptySyncQueue
@@ -11494,6 +11016,70 @@ LOG: Entering checkAndEmptySyncQueue
 
 LOG: Entering checkAndEmptySyncQueue
 
+LOG: Entering refreshFilesListInDriveAndStoreInSettings
+
+LOG: Exiting refreshFilesListInDriveAndStoreInSettings
+
+LOG: Deleting files in refreshAll
+
+LOG: Downloading missing files in refreshAll
+
+LOG: Exited refreshAll
+
+LOG: Exited getLatestContent
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering refreshFilesListInDriveAndStoreInSettings
+
+LOG: Exiting refreshFilesListInDriveAndStoreInSettings
+
+LOG: Deleting files in refreshAll
+
+LOG: Downloading missing files in refreshAll
+
+LOG: Exited refreshAll
+
+LOG: Exited getLatestContent
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering refreshFilesListInDriveAndStoreInSettings
+
+LOG: Exiting refreshFilesListInDriveAndStoreInSettings
+
+LOG: Deleting files in refreshAll
+
+LOG: Downloading missing files in refreshAll
+
+LOG: Exited refreshAll
+
+LOG: Exited getLatestContent
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
 LOG: Entering checkAndEmptySyncQueue
 
 LOG: Entering refreshFilesListInDriveAndStoreInSettings
@@ -11551,6 +11137,204 @@ LOG: Downloading missing files in refreshAll
 LOG: Exited refreshAll
 
 LOG: Exited getLatestContent
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering refreshFilesListInDriveAndStoreInSettings
+
+LOG: Exiting refreshFilesListInDriveAndStoreInSettings
+
+LOG: Deleting files in refreshAll
+
+LOG: Downloading missing files in refreshAll
+
+LOG: Exited refreshAll
+
+LOG: Exited getLatestContent
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering refreshFilesListInDriveAndStoreInSettings
+
+LOG: Exiting refreshFilesListInDriveAndStoreInSettings
+
+LOG: Deleting files in refreshAll
+
+LOG: Downloading missing files in refreshAll
+
+LOG: Exited refreshAll
+
+LOG: Exited getLatestContent
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering refreshFilesListInDriveAndStoreInSettings
+
+LOG: Exiting refreshFilesListInDriveAndStoreInSettings
+
+LOG: Deleting files in refreshAll
+
+LOG: Downloading missing files in refreshAll
+
+LOG: Exited refreshAll
+
+LOG: Exited getLatestContent
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering refreshFilesListInDriveAndStoreInSettings
+
+LOG: modifying file while online
+
+LOG: Exiting refreshFilesListInDriveAndStoreInSettings
+
+LOG: Deleting files in refreshAll
+
+LOG: Downloading missing files in refreshAll
+
+LOG: Exited refreshAll
+
+LOG: Exited getLatestContent
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering emptySyncQueue
+
+LOG: Entering updateLastSyncMetaTag
+
+LOG: Exited updateLastSyncMetaTag
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering refreshFilesListInDriveAndStoreInSettings
+
+LOG: Exiting refreshFilesListInDriveAndStoreInSettings
+
+LOG: Exited emptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering refreshFilesListInDriveAndStoreInSettings
+
+LOG: Exiting refreshFilesListInDriveAndStoreInSettings
+
+LOG: Deleting files in refreshAll
+
+LOG: Downloading missing files in refreshAll
+
+LOG: Exited refreshAll
+
+LOG: Exited getLatestContent
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: modifying file while online
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering emptySyncQueue
+
+LOG: Entering updateLastSyncMetaTag
+
+LOG: Exited updateLastSyncMetaTag
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering refreshFilesListInDriveAndStoreInSettings
+
+LOG: Entering refreshFilesListInDriveAndStoreInSettings
+
+LOG: Exiting refreshFilesListInDriveAndStoreInSettings
+
+LOG: Deleting files in refreshAll
+
+LOG: Downloading missing files in refreshAll
+
+LOG: Exited refreshAll
+
+LOG: Exited getLatestContent
+
+LOG: Exiting refreshFilesListInDriveAndStoreInSettings
+
+LOG: Exited emptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: modifying file while online
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering emptySyncQueue
+
+LOG: Entering updateLastSyncMetaTag
+
+LOG: Exited updateLastSyncMetaTag
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering refreshFilesListInDriveAndStoreInSettings
+
+LOG: Entering refreshFilesListInDriveAndStoreInSettings
+
+LOG: Exiting refreshFilesListInDriveAndStoreInSettings
+
+LOG: Deleting files in refreshAll
+
+LOG: Downloading missing files in refreshAll
+
+LOG: Exited refreshAll
+
+LOG: Exited getLatestContent
+
+LOG: Exiting refreshFilesListInDriveAndStoreInSettings
+
+LOG: Exited emptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
 
 LOG: Entering checkAndEmptySyncQueue
 
@@ -11574,30 +11358,6 @@ LOG: Exited emptySyncQueue
 
 LOG: Entering checkAndEmptySyncQueue
 
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering refreshFilesListInDriveAndStoreInSettings
-
-LOG: Exiting refreshFilesListInDriveAndStoreInSettings
-
-LOG: Deleting files in refreshAll
-
-LOG: Downloading missing files in refreshAll
-
-LOG: Exited refreshAll
-
-LOG: Exited getLatestContent
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
 LOG: Entering refreshFilesListInDriveAndStoreInSettings
 
 LOG: Exiting refreshFilesListInDriveAndStoreInSettings
@@ -11647,206 +11407,6 @@ LOG: Exited refreshAll
 LOG: Exited getLatestContent
 
 LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering refreshFilesListInDriveAndStoreInSettings
-
-LOG: Exiting refreshFilesListInDriveAndStoreInSettings
-
-LOG: Deleting files in refreshAll
-
-LOG: Downloading missing files in refreshAll
-
-LOG: Exited refreshAll
-
-LOG: Exited getLatestContent
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering refreshFilesListInDriveAndStoreInSettings
-
-LOG: Exiting refreshFilesListInDriveAndStoreInSettings
-
-LOG: Deleting files in refreshAll
-
-LOG: Downloading missing files in refreshAll
-
-LOG: Exited refreshAll
-
-LOG: Exited getLatestContent
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: modifying file while online
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering emptySyncQueue
-
-LOG: Entering updateLastSyncMetaTag
-
-LOG: Exited updateLastSyncMetaTag
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering refreshFilesListInDriveAndStoreInSettings
-
-LOG: Exiting refreshFilesListInDriveAndStoreInSettings
-
-LOG: Exited emptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering refreshFilesListInDriveAndStoreInSettings
-
-LOG: Exiting refreshFilesListInDriveAndStoreInSettings
-
-LOG: Deleting files in refreshAll
-
-LOG: Downloading missing files in refreshAll
-
-LOG: Exited refreshAll
-
-LOG: Exited getLatestContent
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering refreshFilesListInDriveAndStoreInSettings
-
-LOG: modifying file while online
-
-LOG: Exiting refreshFilesListInDriveAndStoreInSettings
-
-LOG: Deleting files in refreshAll
-
-LOG: Downloading missing files in refreshAll
-
-LOG: Exited refreshAll
-
-LOG: Exited getLatestContent
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering emptySyncQueue
-
-LOG: Entering updateLastSyncMetaTag
-
-LOG: Exited updateLastSyncMetaTag
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering refreshFilesListInDriveAndStoreInSettings
-
-LOG: Exiting refreshFilesListInDriveAndStoreInSettings
-
-LOG: Exited emptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering refreshFilesListInDriveAndStoreInSettings
-
-LOG: Exiting refreshFilesListInDriveAndStoreInSettings
-
-LOG: Deleting files in refreshAll
-
-LOG: Downloading missing files in refreshAll
-
-LOG: Exited refreshAll
-
-LOG: Exited getLatestContent
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: modifying file while online
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering emptySyncQueue
-
-LOG: Entering updateLastSyncMetaTag
-
-LOG: Exited updateLastSyncMetaTag
-
-LOG: Entering refreshFilesListInDriveAndStoreInSettings
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Exiting refreshFilesListInDriveAndStoreInSettings
-
-LOG: Exited emptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering refreshFilesListInDriveAndStoreInSettings
-
-LOG: Exiting refreshFilesListInDriveAndStoreInSettings
-
-LOG: Deleting files in refreshAll
-
-LOG: Downloading missing files in refreshAll
-
-LOG: Exited refreshAll
-
-LOG: Exited getLatestContent
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering refreshFilesListInDriveAndStoreInSettings
-
-LOG: Exiting refreshFilesListInDriveAndStoreInSettings
-
-LOG: Deleting files in refreshAll
-
-LOG: Downloading missing files in refreshAll
-
-LOG: Exited refreshAll
-
-LOG: Exited getLatestContent
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: Entering checkAndEmptySyncQueue
-
-LOG: modifying file while online
 
 LOG: Entering getLatestContent
 
@@ -11854,11 +11414,427 @@ LOG: Exited getLatestContent
 
 LOG: Entering checkAndEmptySyncQueue
 
+LOG: Entering getLatestContent
+
+LOG: Exited getLatestContent
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering refreshFilesListInDriveAndStoreInSettings
+
+LOG: Exiting refreshFilesListInDriveAndStoreInSettings
+
+LOG: Deleting files in refreshAll
+
+LOG: Downloading missing files in refreshAll
+
+LOG: Exited refreshAll
+
+LOG: Exited getLatestContent
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering refreshFilesListInDriveAndStoreInSettings
+
+LOG: Exiting refreshFilesListInDriveAndStoreInSettings
+
+LOG: Deleting files in refreshAll
+
+LOG: Downloading missing files in refreshAll
+
+LOG: Exited refreshAll
+
+LOG: Exited getLatestContent
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering getLatestContent
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Exited getLatestContent
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering getLatestContent
+
+LOG: Exited getLatestContent
+
+LOG: Entering getLatestContent
+
+LOG: Exited getLatestContent
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering getLatestContent
+
+LOG: Exited getLatestContent
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering refreshFilesListInDriveAndStoreInSettings
+
+LOG: Entering getLatestContent
+
+LOG: Exited getLatestContent
+
+LOG: Exiting refreshFilesListInDriveAndStoreInSettings
+
+LOG: Deleting files in refreshAll
+
+LOG: Downloading missing files in refreshAll
+
+LOG: Exited refreshAll
+
+LOG: Exited getLatestContent
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering getLatestContent
+
+LOG: Exited getLatestContent
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering getLatestContent
+
+LOG: Exited getLatestContent
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering refreshFilesListInDriveAndStoreInSettings
+
+LOG: Exiting refreshFilesListInDriveAndStoreInSettings
+
+LOG: Deleting files in refreshAll
+
+LOG: Downloading missing files in refreshAll
+
+LOG: Exited refreshAll
+
+LOG: Exited getLatestContent
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering refreshFilesListInDriveAndStoreInSettings
+
+LOG: Exiting refreshFilesListInDriveAndStoreInSettings
+
+LOG: Deleting files in refreshAll
+
+LOG: Downloading missing files in refreshAll
+
+LOG: Exited refreshAll
+
+LOG: Exited getLatestContent
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering refreshFilesListInDriveAndStoreInSettings
+
+LOG: Exiting refreshFilesListInDriveAndStoreInSettings
+
+LOG: Deleting files in refreshAll
+
+LOG: Downloading missing files in refreshAll
+
+LOG: Exited refreshAll
+
+LOG: Exited getLatestContent
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering refreshFilesListInDriveAndStoreInSettings
+
+LOG: Exiting refreshFilesListInDriveAndStoreInSettings
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering refreshFilesListInDriveAndStoreInSettings
+
+LOG: Exiting refreshFilesListInDriveAndStoreInSettings
+
+LOG: Deleting files in refreshAll
+
+LOG: Downloading missing files in refreshAll
+
+LOG: Exited refreshAll
+
+LOG: Exited getLatestContent
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering refreshFilesListInDriveAndStoreInSettings
+
+LOG: Exiting refreshFilesListInDriveAndStoreInSettings
+
+LOG: Deleting files in refreshAll
+
+LOG: Downloading missing files in refreshAll
+
+LOG: Exited refreshAll
+
+LOG: Exited getLatestContent
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering refreshFilesListInDriveAndStoreInSettings
+
+LOG: modifying file while online
+
+LOG: Exiting refreshFilesListInDriveAndStoreInSettings
+
+LOG: Deleting files in refreshAll
+
+LOG: Downloading missing files in refreshAll
+
+LOG: Exited refreshAll
+
+LOG: Exited getLatestContent
+
+LOG: Entering checkAndEmptySyncQueue
+
 LOG: Entering emptySyncQueue
 
-LOG: Entering updateLastSyncMetaTag
+LOG: Entering refreshFilesListInDriveAndStoreInSettings
 
-LOG: Exited updateLastSyncMetaTag
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Exiting refreshFilesListInDriveAndStoreInSettings
+
+LOG: Exited emptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering refreshFilesListInDriveAndStoreInSettings
+
+LOG: Exiting refreshFilesListInDriveAndStoreInSettings
+
+LOG: Deleting files in refreshAll
+
+LOG: Downloading missing files in refreshAll
+
+LOG: Exited refreshAll
+
+LOG: Exited getLatestContent
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering refreshFilesListInDriveAndStoreInSettings
+
+LOG: Exiting refreshFilesListInDriveAndStoreInSettings
+
+LOG: Deleting files in refreshAll
+
+LOG: Downloading missing files in refreshAll
+
+LOG: Exited refreshAll
+
+LOG: Exited getLatestContent
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: modifying file while online
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering emptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering refreshFilesListInDriveAndStoreInSettings
+
+LOG: Exiting refreshFilesListInDriveAndStoreInSettings
+
+LOG: Exited emptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering refreshFilesListInDriveAndStoreInSettings
+
+LOG: Exiting refreshFilesListInDriveAndStoreInSettings
+
+LOG: Deleting files in refreshAll
+
+LOG: Downloading missing files in refreshAll
+
+LOG: Exited refreshAll
+
+LOG: Exited getLatestContent
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering refreshFilesListInDriveAndStoreInSettings
+
+LOG: Exiting refreshFilesListInDriveAndStoreInSettings
+
+LOG: Deleting files in refreshAll
+
+LOG: Downloading missing files in refreshAll
+
+LOG: Exited refreshAll
+
+LOG: Exited getLatestContent
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering refreshFilesListInDriveAndStoreInSettings
+
+LOG: Exiting refreshFilesListInDriveAndStoreInSettings
+
+LOG: Deleting files in refreshAll
+
+LOG: Downloading missing files in refreshAll
+
+LOG: Exited refreshAll
+
+LOG: Exited getLatestContent
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: modifying file while online
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering emptySyncQueue
+
+LOG: Exiting refreshFilesListInDriveAndStoreInSettings
+
+LOG: Deleting files in refreshAll
+
+LOG: Downloading missing files in refreshAll
+
+LOG: Exited refreshAll
+
+LOG: Exited getLatestContent
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering refreshFilesListInDriveAndStoreInSettings
+
+LOG: Exiting refreshFilesListInDriveAndStoreInSettings
+
+LOG: Exited emptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering refreshFilesListInDriveAndStoreInSettings
+
+LOG: Exiting refreshFilesListInDriveAndStoreInSettings
+
+LOG: Deleting files in refreshAll
+
+LOG: Downloading missing files in refreshAll
+
+LOG: Exited refreshAll
+
+LOG: Exited getLatestContent
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: modifying file while online
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering emptySyncQueue
 
 LOG: Entering checkAndEmptySyncQueue
 
@@ -11884,9 +11860,17 @@ LOG: Exited getLatestContent
 
 LOG: Entering checkAndEmptySyncQueue
 
+LOG: Entering emptySyncQueue
+
 LOG: Entering checkAndEmptySyncQueue
 
 LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering refreshFilesListInDriveAndStoreInSettings
+
+LOG: Exiting refreshFilesListInDriveAndStoreInSettings
+
+LOG: Exited emptySyncQueue
 
 LOG: Entering checkAndEmptySyncQueue
 
@@ -12017,5 +12001,67 @@ LOG: Exited getLatestContent
 LOG: Entering checkAndEmptySyncQueue
 
 LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering refreshFilesListInDriveAndStoreInSettings
+
+LOG: Exiting refreshFilesListInDriveAndStoreInSettings
+
+LOG: Deleting files in refreshAll
+
+LOG: Downloading missing files in refreshAll
+
+LOG: Exited refreshAll
+
+LOG: Exited getLatestContent
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering refreshFilesListInDriveAndStoreInSettings
+
+LOG: Exiting refreshFilesListInDriveAndStoreInSettings
+
+LOG: Deleting files in refreshAll
+
+LOG: Downloading missing files in refreshAll
+
+LOG: Exited refreshAll
+
+LOG: Exited getLatestContent
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering checkAndEmptySyncQueue
+
+LOG: Entering refreshFilesListInDriveAndStoreInSettings
+
+LOG: Exiting refreshFilesListInDriveAndStoreInSettings
+
+LOG: Deleting files in refreshAll
+
+LOG: Downloading missing files in refreshAll
+
+LOG: Exited refreshAll
+
+LOG: Exited getLatestContent
 
 LOG: Entering checkAndEmptySyncQueue

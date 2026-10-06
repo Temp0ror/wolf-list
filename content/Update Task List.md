@@ -1,5 +1,5 @@
 ---
-lastSync: Sun Sep 13 2026 22:51:31 GMT-0400 (Eastern Daylight Time)
+lastSync: Tue Sep 29 2026 15:53:21 GMT-0400 (Eastern Daylight Time)
 ---
 
 Tasks to be addressed, listed in rough order of personal importance
@@ -20,7 +20,7 @@ Tasks to be addressed, listed in rough order of personal importance
 	- [ ] series of origin
 		- [ ] appearances
 	- [ ] media type (movie/show, video game, book, advertisement...)
-	- [ ] differentiate from #species/werewolf  and #species/wolfman
+	- [ ] differentiate from %%#species/werewolf%%  and %%#species/wolfman%%
 	- [ ] generic or unique
 	- [ ] moral alignment
 	- [ ] provide series in entry page

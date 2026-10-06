@@ -1,5 +1,5 @@
 ---
-lastSync: Thu Sep 17 2026 00:59:27 GMT-0400 (Eastern Daylight Time)
+lastSync: Thu Sep 24 2026 15:20:11 GMT-0400 (Eastern Daylight Time)
 ---
 Browse my weres
 
@@ -76,6 +76,8 @@ X = Need to research name
 	- [ ] [[Transfer]]
 - Atlanta
 	- [ ] [[Coconut Crunch-O's Wolf]]
+- Awoo Comics
+	- [ ] [[Tim(AC)]]
 
 ## B
 

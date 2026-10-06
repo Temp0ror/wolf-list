@@ -1,5 +1,10 @@
 ---
-lastSync: Wed Jan 07 2026 23:31:47 GMT-0500 (Eastern Standard Time)
+lastSync: Wed Sep 23 2026 17:04:51 GMT-0400 (Eastern Daylight Time)
+tags:
+  - species/wolfman
+  - type/2D
+  - completion/low
+  - status/broken
 ---
 
 # Sources
